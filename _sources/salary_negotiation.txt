@@ -1,0 +1,34 @@
+.. _salary_negotiation:
+
+******************
+Salary Negotiation
+******************
+`15 Rules for Negotiating a Job Offer <https://hbr.org/2014/04/15-rules-for-negotiating-a-job-offer>`_
+    Harvard Business Review’s 15 rules for negotiating your salary and getting
+    results.
+    - `Video illustrates the article above <https://www.youtube.com/watch?v=km2Hd_xgo9Q>`_
+`4 Ways to Exude Confidence at Work <http://skillcrush.com/2014/09/19/body-language/>`_
+    This article details how to have body language that communicates confidence
+    and calm in the negotiation space.
+
+
+.. _women_specific:
+
+Women-specific
+==============
+`ask4more <http://www.levo.com/ask4more>`_
+    A whole website dedicated to learning how to leverage your career and wage
+    as a working woman.
+`Salary How To <http://valerieaurora.org/howto_salary/>`_
+    A guide for women on how to negotiate your salary.
+`Leanin Salary Negotiation Guide <http://leanin.org/education/negotiation/>`_
+    Lean In’s website details how to negotiate your salary and get results.
+`How to get Better at Asking for More <http://skillcrush.com/2014/04/08/equal-pay-day-what-women-can-do/>`_
+    Offers advice on how to get comfortable asking for more pay.
+
+.. _language:
+
+Language
+========
+`Never Say this in a Salary Negotiation <http://www.businessinsider.com/never-say-this-in-a-salary-negotiation-2014-7>`_
+    A guide of what to avoid saying when negotiating your salary.

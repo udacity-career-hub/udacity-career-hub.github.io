@@ -1,0 +1,44 @@
+.. careerhub documentation master file, created by
+   sphinx-quickstart on Wed Jul 15 15:11:42 2015.
+
+Welcome to Udacity's Career Hub!
+=====================================
+Udacity has compiled a list of helpful external career resources to prepare for
+your new career. Take a look at the links below!
+
+Contents
+=========
+.. toctree::
+   :maxdepth: 2
+   :caption: Programming resources
+
+   mindset.rst
+   community.rst
+   coding_practice.rst
+   contributing_to_open_source.rst
+
+.. toctree::
+   :maxdepth: 2
+   :caption: Looking for work
+
+   international_employment.rst
+   networking.rst
+   knowing_your_trade.rst
+   job_search_materials.rst
+   freelance_contract_permanent.rst
+   technical_interviews.rst
+   general_interviews.rst
+
+.. toctree::
+   :maxdepth: 2
+   :caption: After you find your job
+
+   salary_negotiation.rst
+
+
+Indices and tables
+==================
+
+* :ref:`genindex`
+* :ref:`search`
+

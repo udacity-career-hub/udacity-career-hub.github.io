@@ -1,0 +1,30 @@
+.. _networking:
+
+**********
+Networking
+**********
+
+.. _building_a_network_and_informational_interviews:
+
+Building a network, Informational Interviews
+    `How to Ask for an Informational Interview <https://www.themuse.com/advice/how-to-ask-for-an-informational-interview-and-get-a-yes>`_
+        This article outlines how to ask for informational inteviews and get a
+        positive response.
+    `Networking Email Template <https://www.wellesley.edu/sites/default/files/assets/departments/cws/files/networking_emails.pdf>`_
+        Here is a sample email template for all your interviewing needs.
+
+.. _reaching_out:
+
+Reaching Out
+============
+`Udacity\'s Informational Interview <https://docs.google.com/a/knowlabs.com/presentation/d/1LF1RqkFzMtx1skr7CmnXEukcwUlljbo35Ii-9-Bq8sg/edit>`_
+    This resource features the slides from Udacity’s informational interview
+    workshop.
+
+.. _follow_up:
+
+Follow up
+=========
+`How to Master the Art of the Followup <http://www.forbes.com/sites/yec/2014/09/23/how-to-master-the-art-of-networking-follow-up/>`_
+    Had the interview but not sure what to do next? Here is a guide on how to
+    follow up with tact.

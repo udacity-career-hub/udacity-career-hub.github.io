@@ -1,0 +1,21 @@
+.. _community:
+
+*********
+Community
+*********
+
+.. _general_coding_community:
+
+General Coding Community
+========================
+`Code Club <http://www.codenewbie.org/>`_
+    A supportive community of programmers and people learning to code.
+
+.. _women:
+
+Women
+=====
+`Girl\'s Develop it <http://www.girldevelopit.com/chapters>`_
+    A nonprofit organization that provides affordable programs for adult women
+    interested in learning web and software development in a judgment-free
+    environment.

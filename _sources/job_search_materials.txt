@@ -1,0 +1,103 @@
+.. _job_search_materials:
+
+********************
+Job Search Materials
+********************
+
+.. _general:
+
+General
+=======
+`10 Things Job Seekers Must Do to Get a Better Job <https://www.linkedin.com/pulse/20130911212503-15454-10-things-job-seekers-must-do-to-get-a-better-job>`_
+    An informative article that features ten things to keep in mind when
+    aplyting to jobs and interviewing.
+`Career Dean <https://www.careerdean.com/>`_
+    Search engine where you ask questions and get answers from software
+    engineers.
+`The Muse Job Search <https://www.themuse.com/tags/job-search>`_
+    This website provides access to an array of articles related to
+    job-searching best practices.
+`Becoming an Apprentice <http://hugomelo.com/becoming-an-apprentice/>`_
+    Interesting article gives personal advice on how to achieve success as a
+    professional coding by being a Coding Apprentice. Great tips for career
+    transitions or non-college grads.
+`Jobpedia <http://www.jobipedia.org/>`_
+    Jobpedia is a place for you to ask questions and search for information
+    related to job searching and the interviewing process.
+
+.. _resume:
+
+Resume
+======
+`Wellesley Resume Guide <http://www.wellesley.edu/sites/default/files/assets/departments/cws/files/resume_e-guide_2012_0.pdf>`_
+    A Resume Guide E-Book from Wellesley Univeristy - not coding specific,
+    but helpful information.
+`Quick Changes to Get Your Resume Noticed <https://www.themuse.com/advice/45-quick-changes-that-help-your-resume-get-noticed-2>`_
+    This article details 45 quick changes that will make your resume stand
+    out.
+`4 Things You Didn\'t Know You Could Put on Your Resume <https://www.themuse.com/advice/4-things-you-didnt-know-you-could-put-on-your-resume>`_
+    Feeling unsure of what to put on your resume? This article is woth a read
+    because it outlines 4 unexpected things you can put on your resume.
+`Complete List of Action Verbs <http://www.wellesley.edu/sites/default/files/assets/departments/cws/files/complete_list_of_action_verbs.pdf>`_
+    Check out this list of action verbs! It great a great resource when you
+    are crafting your resume.
+
+.. _cover_letters:
+
+Cover Letters
+=============
+`Forbes <http://www.forbes.com/sites/dailymuse/2014/02/06/the-cover-letters-that-make-hiring-managers-smile-then-call-you/>`_
+    Forbes’ guide to writing a concise and memorable cover letter.
+`Job Search Cover Letter Samples <http://jobsearch.about.com/od/coverlettersamples/a/coverlettsample.htm>`_
+    This resource provides several examples of cover letters.
+`Resume Genius Cover Letter Guide <https://resumegenius.com/resume/cover-letters-the-how-to-guide>`_
+    This article features the “Five Rules for Cover Letters” and provides
+    sample letters.
+`Cover Letters for Tech Jobs <http://mashable.com/2011/02/05/cover-letter-tech-jobs/>`_
+    This article talks about the question - are cover letters relevant for
+    today’s technology jobs? In arguing yes, it also provides helpful tips
+    to make your cover letter relevant and pertinent to today’s context.
+
+Where to Create Your Portfolio
+==============================
+`GitHub <https://www.github.com>`_
+    The world’s largest Open Source Community.
+`WordPress <https://www.wordpress.com>`_
+    A customizable and easy to use online portfolio platform.
+`Dribble <https://dribbble.com/>`_
+    Dribble is a website were you can post and share your online portfolio.
+`Behance <https://www.behance.net/>`_
+    Behance is a website to share and discover creative work - share your
+    portfolio here.
+
+.. _job_boards:
+
+Job Boards
+==========
+`R Users <http://www.r-users.com/>`_
+    A job board for people and companies looking to hire R users
+    (Data Analysts)
+`Jr Dev Jobs <https://www.jrdevjobs.com/>`_
+    A job board for junior developers.
+`Launch Code <https://launchcode.org>`_
+    Interested in apprenticeships? check this out.
+`White Truffle <https://www.whitetruffle.com/>`_
+    White truffle is a new approach to recruiting and job matches. Join their
+    network and get matched into a job that matches your needs.
+`Angel List <https://angel.co/jobs>`_
+    Apply to thousands of start-up jobs with AngelList.
+`Hired <https://hired.com/>`_
+    Hired is the first two-sided marketplace created specifically for
+    Engineers, Data Scientists, Designers and Product Managers who are
+    overwhelmed with job opportunities. This can be a helpful place to look
+    for jobs.
+`Stack Overflow Careers <http://careers.stackoverflow.com/>`_
+    Stack Overflow started by serving programmers with a better Q&A site.
+    Now serving your career.
+Great general websites to search for jobs
+    - `Indeed <http://www.indeed.com/>`_
+    - `Dice <http://www.dice.com/>`_
+    - `Simply Hired <http://www.simplyhired.com/>`_
+    - `Linked in <https://www.linkedin.com/job/>`_
+    - `Monster <http://www.monster.com/>`_
+    - `Glass Door <http://www.glassdoor.com>`_

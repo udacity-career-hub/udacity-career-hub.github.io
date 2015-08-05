@@ -1,0 +1,66 @@
+.. _freelance_contract_permanent:
+
+****************************
+Freelance/Contract/Permanent
+****************************
+
+.. _contract_vs_permanent:
+
+Contract vs. Permanent
+======================
+`Freelance vs Fulltime <http://blog.udacity.com/2015/03/contract-vs-freelance-vs-full-time-can-tell-difference.html>`_
+    This article details the difference between freelance, contract, and
+    full time work. Helpful if you are reflecting on your ideal work type.
+`Reporting Income and Paying Taxes as an Independent Contractor <http://blog.chegg.com/2014/02/07/how-to-be-an-independent-contractor-reporting-income-and-paying-taxes/>`_
+    This article explains the financial logisitcs of being an independent
+    contractor like how to pay your taxes.
+`Should I be an Employee or Independent Contractor <http://www.forbes.com/sites/steveparrish/2013/12/16/should-i-be-an-employee-or-an-independent-contractor>`_
+    Are you asking yourself the question, should I be an employee or an
+    independent contractor? This article helps answer your question.
+`Employee vs Independent Contractor <https://www.legalzoom.com/articles/employee-vs-independent-contractor-differences-you-need-to-know>`_
+    Another helpful article on the differences between being an employee or
+    an independent contractor.
+
+.. _freelance:
+
+Freelance
+=========
+`Make more money Freelancing <http://skillcrush.com/2015/06/25/make-more-money-freelancing/>`_
+    Great overview.
+`Switching to Contracting <https://github.com/tadast/switching-to-contracting-uk/blob/master/README.md>`_
+    UK-oriented, but still plenty of generalizable advice!
+
+.. _job_boards:
+
+Job Boards
+==========
+`Remote OK <https://remoteok.io/>`_
+    Not technically freelance, but focused on remote work.
+`Elance <www.elance.com>`_
+    Elance is awesome tool for finding freelance jobs especially for people
+    in different countries since it handles the payment system.
+`We Work Remotely <www.weworkremotely.com>`_
+    A great place to find and list jobs that aren’t restricted by commutes
+    or a particular geographic area.
+`Truelancer <http://www.truelancer.com>`_
+    Truelancer is a Global Community of Trusted Freelancers. Post your
+    projects, find work and get hired.
+`Top Coder <http://www.topcoder.com/>`_
+    Technically a competition website, but at its core a place for freelance
+    work.
+`Guide to Freelance Contracts <http://skillcrush.com/2014/09/23/guide-to-freelance-contracts-legal/>`_
+    A helpful guide to contracts working as a freelance worker.
+`Send Five Emails <http://skillcrush.com/2014/11/21/send-5-emails/?hvid=3cUJtt>`_
+    This article details five emails to send to get your freelance career
+    off the  ground.
+
+.. _working_remotely:
+
+Working Remotely
+================
+`Sqwiggle <http://blog.sqwiggle.com/>`_
+    This blog is written by a remote worker and features a variety of entries
+    related to remote work and navigating your tech career.
+`The Science Behind Why Remote Working Works <http://blog.pickcrew.com/the-science-behind-why-remote-working-works/>`_
+    Unsure about whether or not remote working will work for you? Here one
+    man’s personal story about how it does.
