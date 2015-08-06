@@ -1,73 +1,55 @@
 .. _coding_practice:
 
-****************
+*************************
 Coding Practice
-****************
+*************************
 
-.. _websites:
+Practice makes (near) perfect! If you’re looking for a job in tech, this is especially relevant: one of the best ways to learn is by doing, and one of the best ways to reinforce your knowledge is to do more. These links offer opportunities to refine your skills and practice coding.
 
+.. _practice_web_dev:
+
+==========================
 Websites (Web Development)
 ==========================
 
 `Code Kata <http://codekata.com/>`_
     Coding Practice Problems
+
 `Upcase <https:/www.upcase.com/>`_
-    Subscription based service that sends you emails with lessons and actionable advice to help you become a top candidate for web development jobs.
+    Upcase is an opportunity to gain new skills and reinforce old ones through coding exercises and interacting with its coding community. *Paid subscription.*
+
 `Code Wars <http://www.codewars.com/about>`_
-    Website that uses community and real code challenges to promote user learning and coding mastery:
-`Interview Cake <http://www.interviewcake.com>`_
-    This website offers the opportunity to practice coding questions before the actual interview. It requires a fee but boasts a high success rate!
-`Career Cup <http://www.careercup.com/>`_
-    Interview Questions and career services.
-`Udemy Programming Code Interview <https://www.udemy.com/programming-code-interview/>`_
-    $25, but comprehensive
-`Bigocheatsheet <http://bigocheatsheet.com/>`_
-    This webpage gives your a big FREE cheat sheet for general coding and your upcoming technical interview. It includes the best, average and worst case complexities for search and sorting algorithms.
-`Reddit Practice Interview Questions <http://www.reddit.com/r/cscareerquestions/comments/20ahfq/heres_a_pretty_big_list_of_programming_interview/>`_
-    Looking for a list of programming practice interview questions? Look no further - this website gives a long list of questions for you to practice your coding.
+    Learn to code through real code challenges and interacting with other users! 
 
-.. _websites_data:
+.. _practice_data:
 
+==========================
 Websites (Data)
-===============
+==========================
+
 `Quora Data Science Practice Problems <http://www.quora.com/What-are-some-good-toy-problems-in-data-science>`_
     This link will take you to a list of community generated short, one-person problems for data analysis practice.
 
-.. _apps:
+.. _practice_general_challenges:
 
-Apps
-====
-`Code Rust <http://coderust.com/>`_
-    This is an app to help you practice coding on the go - it is mobile  and tablet friendly.
+=============================
+Websites (General Challenges)
+=============================
 
-.. _books:
-
-Books
-=====
-`Cracking the Coding Interview <http://www.amazon.com/Cracking-Coding-Interview-Programming-Questions/dp/098478280X>`_
-    | *Gayle Laakmann McDowell*
-    This best selling book offers 150 programming questions and solutions to help you practice coding and ace your upcoming technical interview questions.
-`Programming Interviews Exposed\: Secrets to Your Next Job <http://www.amazon.com/Programming-Interviews-Exposed-Secrets-Programmer/dp/047012167X>`_
-    | *John Mongan, Noah Kindler, Eric Giguère*
-    This is popular guide to programming interviews includes code examples,
-    information on the latest languages, chapters on sorting and design
-    patterns, tips on using LinkedIn, and a downloadable app to help prepare
-    applicants for the interview. It covers what software companies and IT
-    departments want their programmers to know and includes plenty of helpful
-    hints to boost your confidence.
-`Elements of Programming Interviews\: The Insiders' Guide <http://www.amazon.com/Elements-Programming-Interviews-Insiders-Guide/dp/1479274836>`_
-    | *Tsung-Hsien Lee and Amit Prakash*
-    This book features a great compilation for programming related problems
-    for interview prep, general refreshers, or simply brain teasers.
-
-.. _other:
-
-Other
-=====
 `Google Code Jam <https://code.google.com/codejam/schedule.html>`_
-    Google Code Jam is a website designed to challenge professional and student
-    programmers around the globe to solve difficult algorithmic puzzles.
-`Hacker Rank <hackerrank.com>`_
-    This website features online coding challenges which companies use in their
-    hiring processes.
+    Google Code Jam is a website designed to challenge professional and student programmers around the globe to solve difficult algorithmic puzzles. 
 
+`Coding Challenges <hackerrank.com>`_
+    This website features online coding challenges which companies use in their hiring processes.
+
+`Project Euler <https://projecteuler.net/>`_
+    Project Euler is a series of 500+ mathematical and computational problems designed to be solved programmatically.  It also includes levels, achievements and other community features. 
+
+.. _practice_mobile:
+
+==================
+Mobile Apps
+==================
+
+`Code Rust <http://coderust.com/>`_
+    This is an app to help you practice coding on the go - it is mobile and tablet friendly! 

@@ -10,30 +10,44 @@ Contents
 =========
 .. toctree::
    :maxdepth: 2
-   :caption: Programming resources
+   :caption: Developing Skills
 
    mindset.rst
-   community.rst
+   learn_about_your_industry.rst
    coding_practice.rst
-   contributing_to_open_source.rst
+   hackathons.rst
+   contributing_open_source.rst
+   communitites.rst
 
 .. toctree::
    :maxdepth: 2
-   :caption: Looking for work
+   :caption: Finding Work Opportunities
 
-   international_employment.rst
+   finding_work_getting_started.rst
+   job_search_overview.rst
+   international.rst
+   job_boards.rst
+   employment_types.rst
    networking.rst
-   knowing_your_trade.rst
-   job_search_materials.rst
-   freelance_contract_permanent.rst
-   technical_interviews.rst
-   general_interviews.rst
 
 .. toctree::
    :maxdepth: 2
-   :caption: After you find your job
+   :caption: Hiring Process
+
+   hiring_process_resume.rst
+   hiring_process_linkedin.rst
+   hiring_process_cover_letters.rst
+   hiring_process_portfolio.rst
+   technical_interviews.rst
+   interviews_behavioral.rst
+
+.. toctree::
+   :maxdepth: 2
+   :caption: Job Offers
 
    salary_negotiation.rst
+   deciding_between_jobs.rst
+   first_day.rst
 
 
 Indices and tables
@@ -41,4 +55,3 @@ Indices and tables
 
 * :ref:`genindex`
 * :ref:`search`
-

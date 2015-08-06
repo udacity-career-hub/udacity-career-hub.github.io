@@ -1,0 +1,98 @@
+.. _interviews_technical:
+
+*************************************
+Interviews: Technical
+*************************************
+
+There are many different ways to prepare for a technical interview. Check out all of these options, and decide what is most helpful for you! We recommend…. 
+
+.. _technical_general:
+
+============
+General
+============
+
+.._technical_articles:
+
+---------
+Articles
+---------
+
+- `How to Ace your Coding inteview <https://www.palantir.com/2011/10/the-coding-interview/>`_
+
+- `How to Ace Your Algorithms inteview <https://www.palantir.com/2011/09/how-to-rock-an-algorithms-interview/>`_
+
+- `How to Succeed in Your Programming Interview <http://www.pgbovine.net/programming-interview-tips.htm>`_
+
+.. _technical_web_practice:
+
+------------------
+Web Practice
+------------------
+
+- `Interview Cake <http://www.interviewcake.com>`_
+   This website offers the opportunity to practice coding questions before the actual interview. Paid subscription only. 
+
+- `Career Cup <http://www.interviewcake.com>`_
+
+- `Udemy Interview Prep <https://www.udemy.com/programming-code-interview/>`_
+    Comprehensive course which will help you prepare for a technical interview! *Paid subscription only.*
+
+- `Big O Cheat Sheet <http://bigocheatsheet.com/>`_
+    This webpage gives your a big FREE cheat sheet for general coding and your upcoming technical interview. It includes the best, average and worst case complexities for search and sorting algorithms. 
+
+- `List of Programming Interview Questions <http://www.reddit.com/r/cscareerquestions/comments/20ahfq/heres_a_pretty_big_list_of_programming_interview/>`_
+    Looking for a list of programming practice interview questions? Look no further - this website gives a long list of questions for you to practice your coding. 
+
+.. _technical_books:
+
+------------------
+Books
+------------------
+
+If you find the online resources above not sufficient enough for your interview preparation, you might want to consider these books!
+
+`Cracking the Coding Interview by Gayle Laakmann McDowell <http://www.amazon.com/Cracking-Coding-Interview-Programming-Questions/dp/098478280X>`_
+    This best selling book offers 150 programming questions and solutions to help you practice coding and ace your upcoming technical interview questions. 
+
+`Programming Interviews Exposed: Secrets to Your Next Job by John Mongan, Noah Kindler, Eric Giguère <http://www.amazon.com/Programming-Interviews-Exposed-Secrets-Landing/dp/1118261364>`_
+    This is  popular guide to programming interviews includes code examples, information on the latest languages,  chapters on sorting and design patterns, tips on using LinkedIn, and a downloadable app to help prepare applicants for the interview. 
+
+`Elements of Programming Interviews: The Insiders' Guide by Tsung-Hsien Lee and  Amit Prakash <http://www.amazon.com/Elements-Programming-Interviews-Insiders-Guide/dp/1479274836>`_
+    This book features a great compilation for programming related problems for interview prep, general refreshers, or simply brain teasers. 
+
+.. _technical_data_science:
+
+============
+Data Science
+============
+
+`Data Science Sample Questions <http://www.datasciencecentral.com/profiles/blogs/66-job-interview-questions-for-data-scientists>`_ 
+    Unsure to what questions to expect in your interview? Take a list of these 66 sample questions.
+
+`Quora: Preparing for a Data Science Interview <http://www.quora.com/How-do-I-prepare-for-a-data-scientist-interview>`_ 
+    This post will expose you to a few perspectives on how to prepare for your next data science interview.
+
+`Data Science Questions <http://www.datasciencequestions.com/>`_
+    This book costs $19, but is complied by experts in the field. 
+
+`Quora: Practice Questions <http://www.quora.com/What-are-some-good-toy-problems-in-data-science>`_ 
+    If you are looking for some easy one person sample problems, check out this quora post, which details several practice questions.
+
+.. _technical_webdev:
+
+==================
+Web Developer
+==================
+
+`How to Stand Out <http://blog.udacity.com/2015/01/how-to-stand-out-in-your-web-developer-interview.html>`_
+    Article from Udacity with insight on how to stand out in your web developer interview.
+
+.. _technical_systems_design:
+
+=====================
+Systems Design
+=====================
+
+`How to Ace Your Systems Design Interview <https://www.palantir.com/2011/10/how-to-rock-a-systems-design-interview/>`_
+   Check out this article from Palantir!

@@ -1,0 +1,53 @@
+.. _contributing_open_source:
+
+*************************************
+Contributing to Open Source
+*************************************
+
+.. _what_is_open_source:
+
+========================
+What Is Open Source?
+========================
+
+`Intro to Open Source <http://opensource.org/osd>`_
+    This website details the “Official Definition” of open source and outlines the major components. Its a great website for beginners and even experts.
+
+`Linux Distros <http://www.howtogeek.com/132624/htg-explains-whats-a-linux-distro-and-how-are-they-different/>`_
+    This article defines Linux Distros and how to best use them.
+
+`Guide to Open Source <http://contribute.jquery.org/open-source/>`_
+    A great guide on open source - how, why, and when to join the community are all covered here.
+
+.. _what_is_github:
+
+**********
+GitHub
+**********
+
+`Intro to GitHub <https://help.github.com/articles/where-can-i-find-open-source-projects-to-work-on/>`_
+    Github’s help guide to using the site and finding projects to work on. Also has a link for how to contact someone for more personal support. 
+
+.. _getting_started_github:
+
+========================
+Getting Started
+========================
+
+`How to Start Contributing <http://blog.udacity.com/2013/10/get-started-with-open-source-projects.html>`_
+    Written by Udacity’s own engineer and open source contributor, this article gives instructions on how to start contributing to open source projects. 
+
+`Tips for Contributing <http://blog.newrelic.com/2014/05/05/open-source_gettingstarted/>`_ 
+    This article does a great job of giving your ideas on how to contribute to open source projects in little and big ways - every little bit helps! 
+
+`10 Tips to Start with Open Source <http://opensource.com/life/13/1/10-ways-get-started-open-source>`_ 
+     Don’t know where to get started with Open Source? This article outlines 10 helpful ways to begin. 
+
+.. _find_projects:
+
+==========================
+Find Open Source Projects
+==========================
+
+`Open Source Projects <https://docs.google.com/document/d/1ULcO23Edlydaf82zycRdSWHKUme5pmNnC4OoMefIZ-c/pub>`_
+    This list of open source projects was compiled by Udacity to help you find an open source project in your industry. 

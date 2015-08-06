@@ -1,30 +1,40 @@
 .. _networking:
 
-**********
+*************************************
 Networking
-**********
+*************************************
 
-.. _building_a_network_and_informational_interviews:
+Building relevant professional relationships – or networking – can make a huge difference during the job process.
 
-Building a network, Informational Interviews
-    `How to Ask for an Informational Interview <https://www.themuse.com/advice/how-to-ask-for-an-informational-interview-and-get-a-yes>`_
-        This article outlines how to ask for informational inteviews and get a
-        positive response.
-    `Networking Email Template <https://www.wellesley.edu/sites/default/files/assets/departments/cws/files/networking_emails.pdf>`_
-        Here is a sample email template for all your interviewing needs.
+.. _informational_interviews:
 
-.. _reaching_out:
+============================
+Informational Interviews
+============================
 
-Reaching Out
-============
-`Udacity\'s Informational Interview <https://docs.google.com/a/knowlabs.com/presentation/d/1LF1RqkFzMtx1skr7CmnXEukcwUlljbo35Ii-9-Bq8sg/edit>`_
-    This resource features the slides from Udacity’s informational interview
-    workshop.
+A great way to build your network is through informational interviews, where you sit down with someone in an industry you are interested in for an informal meeting to learn more about that industry. 
 
-.. _follow_up:
+`The Muse: How to Ask for an Informational Interview <https://www.themuse.com/advice/how-to-ask-for-an-informational-interview-and-get-a-yes>`_
+    How to get an informational interview. 
 
-Follow up
-=========
-`How to Master the Art of the Followup <http://www.forbes.com/sites/yec/2014/09/23/how-to-master-the-art-of-networking-follow-up/>`_
-    Had the interview but not sure what to do next? Here is a guide on how to
-    follow up with tact.
+`Interviewing Email Template <https://www.wellesley.edu/sites/default/files/assets/departments/cws/files/networking_emails.pdf>`_
+    Stuck on how to write an email for various interviewing needs? Check out this template.
+
+Check out the Career Development Workshop on Informational Interviews!
+
+.. _following_up:
+
+=================
+Follow Up
+=================
+
+`How to Master the Art of Networking and Following Up <http://www.forbes.com/sites/yec/2014/09/23/how-to-master-the-art-of-networking-follow-up/>`_
+    Did you have the interview, but are not sure what to do next? Here is a guide on how to follow up with tact.
+
+.. _extending_your_network:
+
+======================
+Extending Your Network
+======================
+
+Check out Udacity's Career Development Workshop on how to Extend your Network!
