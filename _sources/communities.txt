@@ -20,3 +20,6 @@ Check out these different coding communities - this is a great opportunity to ge
 
 `Collabfinder <http://collabfinder.com/>`_ 
     Do you have a new project that you are excited about? This would be a great place for you to find people to collaborate with. 
+
+`More Women in Tech Groups <https://medium.com/@karenchurch/crowdsourcing-women-in-tech-programs-events-in-the-bay-area-b4de28233522>`_ 
+    This Medium article has a very long and comprehensive list of groups for women in tech.
