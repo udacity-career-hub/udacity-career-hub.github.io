@@ -18,7 +18,7 @@ Contents
    :maxdepth: 2
    :caption: Developing Skills
 
-   Mindset.rst
+   mindset.rst
    learn_about_your_industry.rst
    coding_practice.rst
    hackathons.rst
@@ -54,10 +54,3 @@ Contents
    salary_negotiation.rst
    deciding_between_jobs.rst
    first_day.rst
-
-
-Indices and tables
-==================
-
-* :ref:`genindex`
-* :ref:`search`
