@@ -1,0 +1,100 @@
+.. _learn_about_your_industry:
+
+*************************
+Learn About Your Industry
+*************************
+
+Researching your industry is an important first step in the job process. Understanding your goal career in the broader context will make you much more efficient when applying to jobs, and give you a better idea of the skills that you might want to continue developing.
+
+Links below are organized by specific industry, to help you jumpstart your research. For general (not specifically attached to any technical topic) information on how to get started researching your industry, check out our Career Development Workshop below. 
+
+
+.. _career_workshop_industry_research:
+
+===========================
+Career Development Workshop
+===========================
+    Check out Udacity's Career Development Workshop on this topic.
+
+.. _industry_data_science:
+
+===========================
+Data Science
+===========================
+
+`Most Read R Posts for Jobs <http://www.r-bloggers.com/77-most-read-r-posts-r-jobs-for-2014/>`_
+    Get a sense of the industry - this blog gives an overview of the most read posts about R, as well as the top 10 R jobs, in 2014.
+
+------------
+Newsletters
+------------
+`Data Science Weekly <http://www.datascienceweekly.org>`_
+    A free weekly newsletter featuring curated news, articles and jobs
+    related to Data Science.
+
+`Data Tau <http://www.datatau.com>`_
+    A simple & streamlined newsletter with links to external resources.
+
+------
+Blogs
+------
+`The Yhat Blog <http://blog.yhathq.com/>`_
+    A blog about machine learning, data science, and engineering.
+
+`The Data Science Handbook <http://www.thedatasciencehandbook.com>`_
+    A book that features advice and insights from 25 experienced data
+    scientists.
+
+`Carl Shan\'s Blog <http://www.carlshan.com>`_
+    Written by Carl Shan, a data scientist interested in
+    social welfare, this blog features stories on his experience and other
+    Data-science related topics.
+
+.. _industry_mobile_development:
+
+==================
+Mobile Development
+==================
+
+----
+iOS
+----
+`Swift <https://developer.apple.com/swift/blog/>`_
+    Check out this blog post on the new programing language, Swift. If you are interested in expanding your skills, this is a great place to start. 
+
+`Apple Developer Sessions <https://developer.apple.com/videos/wwdc/2014/>`_
+    Check out these Apple Developer Session videos. 
+
+-------
+Android
+-------
+`What All Android Developers Should Know <http://www.smashingmagazine.com/2014/10/02/what-every-app-developer-should-know-about-android/>`_
+    This is a great article to get started on learning about being an Android developer! 
+
+.. _industry_web_development:
+
+===============
+Web Development
+===============
+
+Check out these two opposing articles on the state of JavaScript in 2015: `The State of JavaScript in 2015 <http://www.breck-mckye.com/blog/2014/12/the-state-of-javascript-in-2015/>`_ and `The Real State of JavaScript in 2015 <https://medium.com/@krymski/the-real-state-of-javascript-in-2015-3c0c2fd191f9>`_
+
+.. _industry_user_research:
+
+==============
+User Research
+==============
+
+Check out this `overview <https://www.gov.uk/service-manual/user-researchers>`_ of all the types of activities a user researcher may do.
+
+.. _industry_design:
+
+==============
+Design
+==============
+`Hack Design <https://hackdesign.org/>`_
+    Udacity’s designer recommends this website for design practice. 
+`Design of Everyday Things <http://www.amazon.com/The-Design-Everyday-Things-Expanded/dp/0465050654/ref=tmm_pap_title_0>`_
+    The  quintessential design starter-book.
+`Design of Everyday Things Course <http://www.udacity.com/course/design101>`_
+    Udacity also has a course made with the author of The Design of Everyday Things.
