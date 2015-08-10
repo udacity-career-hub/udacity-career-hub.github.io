@@ -111,3 +111,10 @@ window.SphinxRtdTheme = (function (jquery) {
         StickyNav: stickyNav
     };
 }($));
+
+$(document).ready(function() {
+  $( 'a[href^="http://"]' )
+    .attr( 'target','_blank' )
+    .addClass( 'external_link' )
+    ;
+});
