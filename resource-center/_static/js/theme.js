@@ -117,4 +117,8 @@ $(document).ready(function() {
     .attr( 'target','_blank' )
     .addClass( 'external_link' )
     ;
+  $( 'a[href^="https://"]' )
+    .attr( 'target','_blank' )
+    .addClass( 'external_link' )
+    ;
 });
