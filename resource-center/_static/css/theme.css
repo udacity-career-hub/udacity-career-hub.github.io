@@ -4143,6 +4143,10 @@ div[class^='highlight'] pre {
   background-color: #EAF2F5;
 }
 
+.wy-nav-content {
+  padding-top: 500px;
+}
+
 .wy-breadcrumbs li {
   display: inline-block;
 }
@@ -4538,7 +4542,7 @@ div[class^='highlight'] pre {
 }
 
 .wy-nav-content {
-  padding: 1.618em 3.236em;
+  padding: 6.472em 3.236em 1.618em 3.236em;
   height: 100%;
   max-width: 800px;
   margin: auto;
