@@ -3714,18 +3714,22 @@ p {
 
 h1 {
   font-size: 175%;
+  color: #294860;
 }
 
 h2, .rst-content .toctree-wrapper p.caption {
   font-size: 150%;
+  color: #307699;
 }
 
 h3 {
   font-size: 125%;
+  color: #303030;
 }
 
 h4 {
   font-size: 115%;
+  color: #767676;
 }
 
 h5 {
@@ -4385,7 +4389,7 @@ div[class^='highlight'] pre {
 
 .wy-side-nav-search {
   z-index: 200;
-  background-color: #F08C35;
+  background-color: #294860;
   text-align: center;
   padding: 0.809em;
   display: block;
