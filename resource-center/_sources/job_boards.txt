@@ -1,0 +1,22 @@
+.. _job_boards:
+
+*************************************
+Job Boards
+*************************************
+
+
+A job board for people and companies looking to hire `R Users <http://www.r-users.com/>`_.
+
+A job board for junior developers: `Jr. Dev Jobs <https://www.jrdevjobs.com/>`_
+
+If you’re interested in apprenticeships, check out `Launch Code <https://launchcode.org>`_,
+
+`White Truffle <https://www.whitetruffle.com/>`_ is a new approach to recruiting and job matches. Join their network and get matched into a job that matches your needs.
+
+Apply to thousands of start-up jobs with `AngelList <https://angel.co/jobs>`_.
+
+`Hired <https://hired.com/>`_ is the first two-sided marketplace created specifically for Engineers, Data Scientists, Designers and Product Managers who are overwhelmed with job opportunities. This can be a helpful place to look for jobs.
+
+`Stack Overflow <http://careers.stackoverflow.com/>`_ started by serving programmers with a better Q&A site. Now serving your career.
+
+More great websites to search for jobs: http://www.indeed.com/, http://www.dice.com/, http://www.simplyhired.com/, https://www.linkedin.com/job/, http://www.monster.com/, http://www.glassdoor.com.

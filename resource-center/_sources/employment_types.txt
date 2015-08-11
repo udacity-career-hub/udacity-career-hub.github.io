@@ -1,0 +1,77 @@
+.. _employment_types:
+
+*************************************
+Employment Types
+*************************************
+
+.. _contract_permanent:
+
+=======================
+Contract vs. Permanent
+=======================
+
+There are many different types of work that you could involve yourself in. Figure out which one is best for you using these articles below!
+
+Trying to figure out your ideal work type? This `article <http://blog.udacity.com/2015/03/contract-vs-freelance-vs-full-time-can-tell-difference.html>`_ details the difference between freelance, contract, and full time work. 
+
+Here’s `another article <http://blog.chegg.com/2014/02/07/how-to-be-an-independent-contractor-reporting-income-and-paying-taxes/>`_ on the financial logistics (such as how to pay your taxes) of being an independent contractor. 
+
+Trying to decide whether to be an employee or an independent contractor? Check out these articles.
+
+- `Article from Forbes <http://www.forbes.com/sites/steveparrish/2013/12/16/should-i-be-an-employee-or-an-independent-contractor>`_
+
+- `Important Differences You Need to Know <https://www.legalzoom.com/articles/employee-vs-independent-contractor-differences-you-need-to-know>`_
+
+
+.. _freelance:
+
+=======================
+Freelance
+=======================
+
+Unsure where to start with Freelance work? Check out this `overview <http://skillcrush.com/2015/06/25/make-more-money-freelancing/>`_ first.
+
+`Advice about freelance <https://github.com/tadast/switching-to-contracting-uk/blob/master/README.md>`_
+    This resource is oriented towards students in the UK, but there is great advice overall, too!
+
+`Freelance contracts <http://skillcrush.com/2014/09/23/guide-to-freelance-contracts-legal/>`_. 
+    A helpful guide to contracts working as a freelance worker. 
+
+`Five Emails to Start your Freelance Career <http://skillcrush.com/2014/11/21/send-5-emails/?hvid=3cUJtt>`_
+    This article details some very simple ways you can get started on your freelance career.
+ 
+.. _working_remotely:
+
+-------------------
+Working Remotely
+-------------------
+
+`Sqwiggle <http://blog.sqwiggle.com/>`_
+    This blog is written by a remote worker and features a variety of entries related to remote work and navigating a tech career. 
+
+`Why Remote Working Works <http://blog.pickcrew.com/the-science-behind-why-remote-working-works/>`_
+    Unsure about whether or not remote working will work for you? Here one man’s personal story about how it works for him.
+
+.. _finding_freelance_and_remote:
+
+----------------------------------
+Finding freelance and remote work
+----------------------------------
+
+`Truelancer <http://www.truelancer.com>`_
+    Truelancer is a Global Community of Trusted Freelancers. Post your projects, find work, and get hired. 
+
+`Top Coder <http://www.topcoder.com/>`_
+    This is a competition website that, at its core, is a place to find freelance work. 
+
+`Freelanship <https://freelanship.com/>`_
+    Another great place to find freelance work.
+
+`Upwork <https://www.upwork.com/>`_
+    Upwork is awesome tool for finding freelance jobs. International students in particular may find this helpful because Upwork handles payment through its own system. 
+
+`Remote OK <https://remoteok.io/>`_
+    While this resource is not technically about freelance, this is a great resource for finding remote work.
+
+`We Work Remotely <www.weworkremotely.com>`_ 
+    This is a great place to find and list jobs that aren’t restricted by commutes or a particular geographic. 

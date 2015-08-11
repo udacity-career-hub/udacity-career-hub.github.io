@@ -1,0 +1,40 @@
+.. _networking:
+
+*************************************
+Networking
+*************************************
+
+Building relevant professional relationships – or networking – can make a huge difference during the job process.
+
+.. _informational_interviews:
+
+============================
+Informational Interviews
+============================
+
+A great way to build your network is through informational interviews, an informal meeting with someone from the industry you're interested in.
+
+`The Muse: How to Ask for an Informational Interview <https://www.themuse.com/advice/how-to-ask-for-an-informational-interview-and-get-a-yes>`_
+    How to get an informational interview. 
+
+`Interviewing Email Template <https://www.wellesley.edu/sites/default/files/assets/departments/cws/files/networking_emails.pdf>`_
+    Stuck on how to write an email for various interviewing needs? Check out this template.
+
+Check out the Career Development Workshop on `Informational Interviews <https://docs.google.com/document/d/1nYTZOUZc1jSOaRp2lFJgFM0hAlRWN7nU7lTpHxWkVnU/pub?embedded=true>`_! The video to the presentation can be found `here <https://www.youtube.com/watch?feature=player_embedded&v=QI31xMQ8gqw>`_.
+
+.. _following_up:
+
+=================
+Follow Up
+=================
+
+`How to Master the Art of Networking and Following Up <http://www.forbes.com/sites/yec/2014/09/23/how-to-master-the-art-of-networking-follow-up/>`_
+    Did you have the interview, but are not sure what to do next? Here is a guide on how to follow up with tact.
+
+.. _extending_your_network:
+
+======================
+Extending Your Network
+======================
+
+Check out Udacity's Career Development Workshop on how to `extend your network <https://docs.google.com/document/d/1QvdTQQS2iYuVozCNk2Md_C15Kpv-7cBO1NKBoElRiaY/pub>`_! The video to the workshop can be found `here <https://www.youtube.com/watch?feature=player_embedded&v=y_4pEwcmgOs>`_.

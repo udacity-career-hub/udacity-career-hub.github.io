@@ -1,0 +1,73 @@
+.. _interviews_behavioral:
+
+**************************************
+Interviews: Behavioral & Non-Technical
+**************************************
+
+.. _recruiter_thinking:
+
+=========================
+Thinking Like a Recruiter
+=========================
+
+The work that a recruiter does can feel very mysterious, but understanding what they do will give you greater insight into how you can succeed in the hiring process. 
+
+`LinkedIn: Inside Scoop <https://www.linkedin.com/pulse/20141125034118-15454-how-recruiters-prep-their-best-candidates>`_
+    This article gives an inside scoop on how recruiters prep their best candidates for success. 
+
+`Perspective on Coding Interviews <http://news.dice.com/2012/10/19/coding-interviews-hiring-managers-perspective/>`_
+    This article gives into the hiring managers perspective on your coding interview. 
+
+`LinkedIn: 5 Simple Ideas to Blow the Socks Off Your Next Interview <https://www.linkedin.com/pulse/20140902155829-15454-5-simple-ideas-to-blow-the-socks-off-your-next-interview>`_
+    Want to wow your next interviewer? Read on for tips.
+
+Udacity did a Q&A with a hiring manager. Check out our `Career Development Workshop <https://docs.google.com/document/d/1sD89ZolRUCqnNePndyHvgVZiBpfcOCuxR4GsQjfXB-E/pub?embedded=true>`_ to get an inside scoop on how the hiring process works! Video `here <https://www.youtube.com/watch?feature=player_embedded&v=q7mglehSkB4>`_.
+
+.. _behavioral_phone:
+
+==================
+Phone Screening
+==================
+
+Phone interviews are often the first stage of the hiring process – doing well will increase your odds of being called back for an on-site interview! Check out these tips for succeeding in this section.
+
+`Phone interview DOs and DON’Ts <http://www.yale.edu/hronline/startcareer/resources/docs/interview_tips.pdf>`_
+    This is a great resource from Yale University for some initial tips for the phone interview.
+
+`Tips from Gayle Laakman McDowell <http://news.dice.com/2012/10/02/gayle-laakmann-mcdowell-coding-interviews/>`_
+    5 Steps to cracking your coding interview, from phone interview to onsite visit.
+
+`Expert Advice: 8 Tips for Acing a Phone Interview <http://www.nerdwallet.com/blog/nerdscholar/2014/expert-advice-8-tips-acing-phone-interview/>`_
+    8 quick tips from professionals about phone interviews.
+
+
+`Palantir: How to Rock a Phone Interview <https://www.palantir.com/2012/09/how-to-rock-a-phone-interview/>`_
+    More tips on how to ace your phone interview.
+
+.. _behavioral_in-person:
+
+=================================================
+In-Person, Behavioral & Non-Technical Interviews
+=================================================
+
+Behavioral interviews can be intimidating – it's okay to feel nervous, everyone does! Check out these articles, with tips on how to make a strong impression in person.
+
+Check out Udacity's `Career Development Workshop <https://docs.google.com/document/d/1E6oF9FN8PoQoKPlgfygl8vI1lNzM5SdN3GiOnfTmKQU/pub?embedded=true>`_ on how to ace your in-person, behavioral interview. Video `here <https://www.youtube.com/watch?feature=player_embedded&v=1QJUSvDjB5Y>`_.
+
+`How to Prepare for a Behavioral Interview <http://blog.udacity.com/2015/08/how-to-prepare-for-a-behavioral-interview.html>`_
+    Check out this Udacity blog post, which includes explanations of different types of interview questions, as well as a list of questions you might expect!
+
+`Perfecting Body Language: <http://skillcrush.com/2014/09/19/body-language/>`_ 
+    Feeling nervous about your interview? This article details how to have body language that communicates confidence and calmness while you are interviewing. 
+
+`LinkedIn: Win Every Interview <https://www.linkedin.com/pulse/win-every-interview-6-steps-laszlo-bock?trk=prof-post>`_
+    Here are six general tips for how to impress during your interview! 
+
+`Sample list of common in-person interview questions <http://www.wellesley.edu/sites/default/files/assets/departments/cws/images/interview_questions.pdf>`_
+    Check out this list of common interview questions and tips provided by Wellesley.
+
+`LinkedIn: How to Answer Any Interview Question <https://www.linkedin.com/pulse/20140730160544-15454-how-to-answer-any-interview-question>`_ 
+    Tired of memorizing sample questions? Read this article on how to answer any and all interview questions. 
+
+`How to Prepare for the Second Interview <http://www.theladders.com/career-advice/how-to-prepare-for-second-interview>`_
+    Made it to the second interview? Here’s an article on how to ace round 2.

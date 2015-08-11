@@ -1,0 +1,16 @@
+.. _international:
+
+*************************************
+Tips for International Students
+*************************************
+
+While Udacity cannot help you with the legalities of getting a job in the United States, here are some links that you might find helpful as an international student. You may also find information about remote work, and remote/freelance job postings useful.
+
+`Info for H1B applicants <http://h1bvisajobs.com/>`_
+    Explanations of process and jobs listings for H1B applicants.
+
+`Going Global <http://www.goinglobal.com/>`_
+    A helpful online resource for international students looking to expand their career options. 
+
+`Guide <http://www.nolo.com/legal-encyclopedia/question-h1b-visa-can-computer-programming-skills-28199.html>`_
+    “Can my computer programming skills get me an H-1B visa?" A helpful guide for international students. 

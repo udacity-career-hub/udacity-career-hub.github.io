@@ -1,0 +1,32 @@
+.. _job_search_overview:
+
+*************************************
+Job Search Overview
+*************************************
+
+.. _best_practices:
+
+=======================
+Tips in the Job Search
+=======================
+
+`Tips to Keep in Mind <https://www.linkedin.com/pulse/20130911212503-15454-10-things-job-seekers-must-do-to-get-a-better-job>`_
+    Ten things to keep in mind when applying to jobs and interviewing. 
+
+`Best Practices in the Job Search <https://www.themuse.com/tags/job-search>`_ 
+    This website provides access to an array of articles related  to job-searching best practices. 
+
+.. job_search_resources:
+
+===============
+Resources
+===============
+
+`Career Dean <https://www.careerdean.com/>`_
+    Career Dean is a search engine where you can ask questions and get answers from software engineers. 
+
+`Coding Apprentice <http://hugomelo.com/becoming-an-apprentice/>`_
+    This article gives personal advice on how to achieve success as a professional coding by being a Coding Apprentice. This article has especially great tips for career transitions or non-college grads. 
+
+`Jobpedia <http://www.jobipedia.org/>`_
+    Jobpedia is a great place to ask questions and search for information related to job searching and the interviewing process.  
