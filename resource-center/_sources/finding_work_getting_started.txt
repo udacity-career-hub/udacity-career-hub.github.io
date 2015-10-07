@@ -4,9 +4,9 @@
 Getting Started 
 *************************************
 
-Check out Udacity's `Career Development Workshop <https://docs.google.com/document/d/1XJf0wYWIoHWfM8Ep6xIkuBw6tmAlyMW5l37bEgeSoSA/pub?embedded=true>`_ on how to get started on finding work opportunities. You can find the video to the workshop `here <https://www.youtube.com/watch?feature=player_embedded&v=OP1CJbQpMHA>`_. 
+Check out Udacity's `Career Development Workshop <https://docs.google.com/document/d/1XJf0wYWIoHWfM8Ep6xIkuBw6tmAlyMW5l37bEgeSoSA/pub?embedded=true>`_ which covers the basics on how to get started finding work opportunities. You can find the video to the workshop `here <https://www.youtube.com/watch?feature=player_embedded&v=OP1CJbQpMHA>`_. 
 
-Here are two resources which gives advice on getting started in the hiring process.
+Additionally, here are two articles which give more specific advice on what to do and not do to land your next gig.
  
 - `How to Get Your Next Interview <https://www.linkedin.com/pulse/20140924220547-15454-4-new-ideas-for-getting-your-next-job-interview>`_
 

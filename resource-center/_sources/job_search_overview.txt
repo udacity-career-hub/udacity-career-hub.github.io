@@ -26,7 +26,7 @@ Resources
     Career Dean is a search engine where you can ask questions and get answers from software engineers. 
 
 `Coding Apprentice <http://hugomelo.com/becoming-an-apprentice/>`_
-    This article gives personal advice on how to achieve success as a professional coding by being a Coding Apprentice. This article has especially great tips for career transitions or non-college grads. 
+    This article gives personal advice on how to achieve success as a professional coder by being a Coding Apprentice. It has especially great tips for career transitions or non-college grads. 
 
-`Jobpedia <http://www.jobipedia.org/>`_
-    Jobpedia is a great place to ask questions and search for information related to job searching and the interviewing process.  
+`Jobipedia <http://www.jobipedia.org/>`_
+    Jobipedia is a great place to ask questions and search for information related to job searching and the interviewing process.  

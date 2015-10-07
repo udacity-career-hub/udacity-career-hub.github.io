@@ -9,9 +9,9 @@ A job board for people and companies looking to hire `R Users <http://www.r-user
 
 A job board for junior developers: `Jr. Dev Jobs <https://www.jrdevjobs.com/>`_
 
-If you’re interested in apprenticeships, check out `Launch Code <https://launchcode.org>`_,
+If you’re interested in apprenticeships, check out `Launch Code <https://launchcode.org>`_.
 
-`White Truffle <https://www.whitetruffle.com/>`_ is a new approach to recruiting and job matches. Join their network and get matched into a job that matches your needs.
+`White Truffle <https://www.whitetruffle.com/>`_ is a new approach to recruiting and job matches. Join their network and get matched into a job that fits your needs.
 
 Apply to thousands of start-up jobs with `AngelList <https://angel.co/jobs>`_.
 

@@ -31,9 +31,9 @@ Web Practice
 ------------------
 
 - `Interview Cake <http://www.interviewcake.com>`_
-   This website offers the opportunity to practice coding questions before the actual interview. Paid subscription only. 
+   This website offers the opportunity to practice coding questions before the actual interview. *Paid subscription only.*
 
-- `Career Cup <http://www.interviewcake.com>`_
+- `Career Cup <http://www.careercup.com/>`_
    Look up interview questions from big tech companies, find tips and tricks, and check out tons of other questions here.
 
 
@@ -41,10 +41,13 @@ Web Practice
     Comprehensive course which will help you prepare for a technical interview! *Paid subscription only.*
 
 - `Big O Cheat Sheet <http://bigocheatsheet.com/>`_
-    This webpage gives your a big FREE cheat sheet for general coding and your upcoming technical interview. It includes the best, average and worst case complexities for search and sorting algorithms. 
+    This webpage gives you a big FREE cheat sheet for general coding and your upcoming technical interview. It includes the best, average and worst case complexities for search and sorting algorithms. 
 
 - `List of Programming Interview Questions <http://www.reddit.com/r/cscareerquestions/comments/20ahfq/heres_a_pretty_big_list_of_programming_interview/>`_
     Looking for a list of programming practice interview questions? Look no further - this website gives a long list of questions for you to practice your coding. 
+    
+- `Project Euler <https://projecteuler.net/>`_
+    Project Euler is a series of 500+ mathematical and computational problems designed to be solved programmatically.  It also includes levels, achievements and other community features. 
 
 .. _technical_books:
 
@@ -70,7 +73,7 @@ Data Science
 ============
 
 `Data Science Sample Questions <http://www.datasciencecentral.com/profiles/blogs/66-job-interview-questions-for-data-scientists>`_ 
-    Unsure to what questions to expect in your interview? Take a list of these 66 sample questions.
+    Unsure what questions to expect in your interview? Take a look at this list of 66 sample questions.
 
 `Quora: Preparing for a Data Science Interview <http://www.quora.com/How-do-I-prepare-for-a-data-scientist-interview>`_ 
     This post will expose you to a few perspectives on how to prepare for your next data science interview.

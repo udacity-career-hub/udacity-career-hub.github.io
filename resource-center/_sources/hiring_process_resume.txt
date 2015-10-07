@@ -4,9 +4,9 @@
 Resume
 *************************************
 
-Looking to brush up your resume? Here are several helpful links. While these are resources that pertain to non-technical resumes, these are still useful to provide some ways that you can highlight your technical accomplishments.
+Looking to brush up your resume? Check out Udacity's `Career Development Workshop <https://docs.google.com/document/d/1fFKvktW0O1sHOfjg7pBHrgWg7t3BgRQkek4X-466aCk/pub?embedded=true>`_ on how to refine your resume. The video of the presentation can be found `here <https://www.youtube.com/watch?feature=player_embedded&v=vW8baYJBofg>`_.
 
-Check out Udacity's `Career Development Workshop <https://docs.google.com/document/d/1fFKvktW0O1sHOfjg7pBHrgWg7t3BgRQkek4X-466aCk/pub?embedded=true>`_ on how to refine your resume. The video of the presentation can be found `here <https://www.youtube.com/watch?feature=player_embedded&v=vW8baYJBofg>`_.
+Additionally, check out the following links that, although not focused on technical resumes, will still provide you with a few techniques on how best to highlight your technical accomplishments.
 
 `Resume Resource from Wellesley College <http://www.wellesley.edu/sites/default/files/assets/departments/cws/files/resume_e-guide_2012_0.pdf>`_
     A Resume Guide E-Book from Wellesley College. 
@@ -18,4 +18,4 @@ Check out Udacity's `Career Development Workshop <https://docs.google.com/docume
     Feeling unsure of what to put on your resume? This article is worth a read because it outlines 4 unexpected things you can add that will make your resume stand out! 
 
 `Change Your Action Verbs! <http://www.wellesley.edu/sites/default/files/assets/departments/cws/files/complete_list_of_action_verbs.pdf>`_ 
-    Action verbs are important in strengthening your resume because it shows employers that you played a meaningful role in your previous work, and that you will continue to play such a role in a future opportunity. Check out this article for some ideas to diversify your verb choices. 
+    Using action verbs consistently throughout your resume helps emphasize to employers your individual contributions and the meaningful role that you played in previous positions. Check out this list of action verbs to use in your resume.

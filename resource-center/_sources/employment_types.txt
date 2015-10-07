@@ -18,10 +18,11 @@ Here’s `another article <http://blog.chegg.com/2014/02/07/how-to-be-an-indepen
 
 Trying to decide whether to be an employee or an independent contractor? Check out these articles.
 
-- `Article from Forbes <http://www.forbes.com/sites/steveparrish/2013/12/16/should-i-be-an-employee-or-an-independent-contractor>`_
+`"Should I Be An Employee Or An Independent Contractor?" <http://www.forbes.com/sites/steveparrish/2013/12/16/should-i-be-an-employee-or-an-independent-contractor/>`_
+    This article discusses the pros and cons of independent contractor work compared to full-time employment.
 
-- `Important Differences You Need to Know <https://www.legalzoom.com/articles/employee-vs-independent-contractor-differences-you-need-to-know>`_
-
+`Important Differences You Need to Know <https://www.legalzoom.com/articles/employee-vs-independent-contractor-differences-you-need-to-know>`_
+    This article explores the legal responsibilities and business partnership a contractor would have in comparison to an employee.
 
 .. _freelance:
 
@@ -66,12 +67,15 @@ Finding freelance and remote work
 
 `Freelanship <https://freelanship.com/>`_
     Another great place to find freelance work.
+    
+`Free Code Camp <http://freecodecamp.com/>`_
+    This open source community gives people opportunities to learn to code and then give back by helping non-profit organizations.
 
 `Upwork <https://www.upwork.com/>`_
-    Upwork is awesome tool for finding freelance jobs. International students in particular may find this helpful because Upwork handles payment through its own system. 
+    Upwork is an awesome tool for finding freelance jobs. International students in particular may find this helpful because Upwork handles payment through its own system. 
 
 `Remote OK <https://remoteok.io/>`_
     While this resource is not technically about freelance, this is a great resource for finding remote work.
 
-`We Work Remotely <www.weworkremotely.com>`_ 
+`We Work Remotely <https://weworkremotely.com/>`_ 
     This is a great place to find and list jobs that aren’t restricted by commutes or a particular geographic. 

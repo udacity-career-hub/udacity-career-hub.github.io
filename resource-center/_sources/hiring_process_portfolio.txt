@@ -4,7 +4,7 @@
 Portfolio
 *************************************
 
-Your portfolio is incredibly important to the job process because it gives potential employers the opportunity to see with your actual work! Here are some useful spaces to share your projects.
+Your portfolio is incredibly important to the job process because it gives potential employers the opportunity to see your actual work! Consider sharing your work in one of the following ways.
 
 .. _portfolio_github:
 
@@ -34,6 +34,6 @@ Design Portfolio
 Do-It-Yourself Portfolio
 ========================
 
-Why use a web service when you can create your own portfolio? If you’re familiar with web development, you can make your own website to showcase your portfolio.
+Why use a web service when you can create your own portfolio? If you’re familiar with web development, you can make your own website to showcase your work.
 
 If you have less web development experience, use `WordPress <https://www.wordpress.com>`_ as a tool to make your own unique portfolio website. 
