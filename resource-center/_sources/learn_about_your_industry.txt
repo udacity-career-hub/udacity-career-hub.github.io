@@ -35,9 +35,9 @@ Newsletters
 `Data Tau <http://www.datatau.com>`_
     A simple & streamlined newsletter with links to external resources.
 
-------
-Blogs
-------
+------------------
+Data Science Blogs
+------------------
 `The Yhat Blog <http://blog.yhathq.com/>`_
     A blog about machine learning, data science, and engineering.
 
@@ -79,9 +79,9 @@ Web Development
 
 Check out these two opposing articles on the state of JavaScript in 2015: `The State of JavaScript in 2015 <http://www.breck-mckye.com/blog/2014/12/the-state-of-javascript-in-2015/>`_ and `The Real State of JavaScript in 2015 <https://medium.com/@krymski/the-real-state-of-javascript-in-2015-3c0c2fd191f9>`_
 
-------
-Blogs
-------
+-------------
+Web Dev Blogs
+-------------
 `A list Apart <http://alistapart.com/>`_
     A List Apart explores the design, development, and meaning of web content,
     with a special focus on web standards and best practices.
