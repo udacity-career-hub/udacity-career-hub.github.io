@@ -15,5 +15,5 @@ While Udacity cannot help you with the legalities of getting a job in the United
 `Guide <http://www.nolo.com/legal-encyclopedia/question-h1b-visa-can-computer-programming-skills-28199.html>`_
     “Can my computer programming skills get me an H-1B visa?" A helpful guide for international students. 
     
-`"The 10 Interview Questions You Need to Know" <http://www.syntacticsenglish.com/ask-an-english-teacher/10-interview-questions>`_
-    An article that lists common interview questions and provides guidance on how to answer them. 
+`"10 Interview Questions You Need to Know in English" <http://www.speakconfidentenglish.com/10-interview-questions-in-english/>`_
+    An article from Speak Confident English that lists common interview questions and provides guidance on how to answer them. 
