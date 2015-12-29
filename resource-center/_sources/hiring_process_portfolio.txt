@@ -1,7 +1,7 @@
 .. _hiring_process_portfolio:
 
 *************************************
-Portfolio
+Portfolio & Showcasing Your Work
 *************************************
 
 Your portfolio is incredibly important to the job process because it gives potential employers the opportunity to see your actual work! Consider sharing your work in one of the following ways.
@@ -12,7 +12,7 @@ Your portfolio is incredibly important to the job process because it gives poten
 Code Portfolio (Github)
 =======================
 
-The world’s largest Open Source Community: https://www.github.com
+The world’s largest Open Source Community is `GitHub <https://www.github.com>`_.
 
 Check out our `Career Development Workshop <https://docs.google.com/document/d/1p4jcycIlY7_howbMrM-Ylw_r-KztShh9B9__LMltzOE/pub?embedded=true>`_ on best practices for sharing your work on GitHub! Video `here <https://www.youtube.com/watch?feature=player_embedded&v=b0eKGS9dh30>`_.
 
@@ -37,3 +37,11 @@ Do-It-Yourself Portfolio
 Why use a web service when you can create your own portfolio? If you’re familiar with web development, you can make your own website to showcase your work.
 
 If you have less web development experience, use `WordPress <https://www.wordpress.com>`_ as a tool to make your own unique portfolio website. 
+
+==================================
+Storytelling and Personal Branding
+==================================
+
+Your portfolio showcases your work and accomplishments. Often, employers want to know the story of how you got there. While personal success stories are an important asset when it comes to career advancement, people often have trouble telling the stories behind them.
+
+Check out Udacity's `blog post <http://blog.udacity.com/2015/12/storytelling-personal-branding-and-getting-hired.html>`_ on "Storytelling, Personal Branding, and Getting Hired" for tips on leveraging your success stories to get a job.
