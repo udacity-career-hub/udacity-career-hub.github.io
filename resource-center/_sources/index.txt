@@ -32,6 +32,7 @@ Contents
    finding_work_getting_started.rst
    job_search_overview.rst
    international.rst
+   tech_for_good.rst
    job_boards.rst
    employment_types.rst
    networking.rst
