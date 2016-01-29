@@ -46,14 +46,12 @@ Articles
 Web Practice
 ------------------
 
-- `Pramp <https://www.pramp.com/>`_
-   Peer-practice for technical interviews ... for free!
-
 - `Interview Cake <http://www.interviewcake.com>`_
    This website offers the opportunity to practice coding questions before the actual interview. *Paid subscription only.*
 
 - `Career Cup <http://www.careercup.com/>`_
    Look up interview questions from big tech companies, find tips and tricks, and check out tons of other questions here.
+
 
 - `Udemy Interview Prep <https://www.udemy.com/programming-code-interview/>`_
     Comprehensive course which will help you prepare for a technical interview! *Paid subscription only.*

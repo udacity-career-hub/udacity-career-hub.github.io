@@ -5,20 +5,18 @@ Job Boards
 *************************************
 
 
-* `R Users <http://www.r-users.com/>`_ is a job board for data analysts, data scientists, R developers, and other positions. Listings include freelance, full-time and part-time opportunities
+A job board for people and companies looking to hire `R Users <http://www.r-users.com/>`_.
 
-* `Jr. Dev Jobs <https://www.jrdevjobs.com/>`_, which also showcases Profiles of aspiring developers
+A job board for junior developers: `Jr. Dev Jobs <https://www.jrdevjobs.com/>`_
 
-* `Launch Code <https://launchcode.org>`_ is a non-profit that matches candidates with paid apprenticeships and jobs
+If you’re interested in apprenticeships, check out `Launch Code <https://launchcode.org>`_.
 
-* `White Truffle <https://www.whitetruffle.com/>`_ is a new approach to recruiting - join their network to be matched with employers
+`White Truffle <https://www.whitetruffle.com/>`_ is a new approach to recruiting and job matches. Join their network and get matched into a job that fits your needs.
 
-* `AngelList <https://angel.co/jobs>`_ is one of the biggest job boards for startups
+Apply to thousands of start-up jobs with `AngelList <https://angel.co/jobs>`_.
 
-* `Hired <https://hired.com/>`_ is the first two-sided marketplace created specifically for engineers, data scientists, designers and product managers who are overwhelmed with job opportunities
+`Hired <https://hired.com/>`_ is the first two-sided marketplace created specifically for Engineers, Data Scientists, Designers and Product Managers who are overwhelmed with job opportunities. This can be a helpful place to look for jobs.
 
-* `Stack Overflow <http://careers.stackoverflow.com/>`_ started by serving programmers with a better Q&A site and is now serving your career
-
-* `Product Hunt <https://www.producthunt.com/e/find-a-remote-job>`_ has a fantastic list of apps to help you find remote opportunities
+`Stack Overflow <http://careers.stackoverflow.com/>`_ started by serving programmers with a better Q&A site. Now serving your career.
 
 More great websites to search for jobs: http://www.indeed.com/, http://www.dice.com/, http://www.simplyhired.com/, https://www.linkedin.com/job/, http://www.monster.com/, http://www.glassdoor.com.
