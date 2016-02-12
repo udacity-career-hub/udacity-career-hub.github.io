@@ -8,15 +8,20 @@ Students in Udacity’s Nanodegree programs can submit Dry-Run Interview Project
 
 `Front-End Web Developer <https://www.udacity.com/course/front-end-web-developer-nanodegree--nd001>`_
 	How would you go about writing a function or analyzing a front-end web application framework?
-	
-	The career projects within this Nanodegree program are also available in the separate `Career Advisor: Front-End Web Developer <https://www.udacity.com/course/career-advisor-front-end-web-developer--ca001>`_ program.
 
 `Data Analyst  <https://www.udacity.com/course/data-analyst-nanodegree--nd002>`_
 	What are the different types of data questions you could be asked? How would you tackle a question asking you to construct a query differently from a question about statistical models or probability?
 
 `Full Stack Web Developer <https://www.udacity.com/course/full-stack-web-developer-nanodegree--nd004>`_
 	What are the components you need to address when answering a question about web security? How would you approach writing code while explaining your reasoning for it? 
-
+	
+`iOS Developer <https://www.udacity.com/course/ios-developer-nanodegree--nd003>`_
+	How would you address design and development questions using Apple's iOS Software Development Kit?
+	
+`Android Developer <https://www.udacity.com/course/android-developer-nanodegree--nd801>`_
+	How would you design and develop an Android app using the most efficient methods?
+	
+These interview courses are also available in Udacity's `Career Advisor <https://www.udacity.com/career-advisor>`_ programs!
 
 We are currently working to expand these interview projects into other Nanodegree programs. Stay tuned!
 
@@ -48,6 +53,12 @@ Web Practice
 
 - `Pramp <https://www.pramp.com/>`_
    Peer-practice for technical interviews ... for free!
+
+- `interviewing.io <http://interviewing.io/>`_
+   Practice interviewing with engineers from top companies, anonymously. Get better at algorithmic problems and find a job!
+   
+- `InterviewBit <https://www.interviewbit.com/>`_
+   Learn and practice on almost all coding interview questions asked historically and get referred to the best tech companies!
 
 - `Interview Cake <http://www.interviewcake.com>`_
    This website offers the opportunity to practice coding questions before the actual interview. *Paid subscription only.*
@@ -101,6 +112,9 @@ Data Science
 
 `Quora: Practice Questions <http://www.quora.com/What-are-some-good-toy-problems-in-data-science>`_ 
     If you are looking for some easy one-person sample problems, check out this Quora post, which details several practice questions.
+    
+`Questions From Data Science Interviews <http://blog.udacity.com/2015/04/data-science-interview-questions.html>`_
+    A blog on how to approach a data science job interview.
 
 .. _technical_webdev:
 

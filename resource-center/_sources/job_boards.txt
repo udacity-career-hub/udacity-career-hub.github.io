@@ -4,6 +4,7 @@
 Job Boards
 *************************************
 
+* `FirstJob <https://www.firstjob.com/>`_ is a job site that focuses on getting you your first job!
 
 * `R Users <http://www.r-users.com/>`_ is a job board for data analysts, data scientists, R developers, and other positions. Listings include freelance, full-time and part-time opportunities
 

@@ -18,6 +18,11 @@ Check out our `Career Development Workshop <https://docs.google.com/document/d/1
 
 .. _portfolio_design:
 
+==============
+Data Analysis
+==============
+Read `Udacity's blog <http://blog.udacity.com/2016/02/how-to-build-a-data-analysis-portfolio-that-will-get-you-hired.html>`_ on "How To Build A Data Analysis Portfolio That Will Get You Hired."
+
 =================
 Design Portfolio
 =================
