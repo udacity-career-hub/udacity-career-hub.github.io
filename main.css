@@ -614,14 +614,13 @@ p {
   display: block; }
 
 .logo img {
-  max-height: 30px;
-  position: absolute;
-  top: 50%;
-  transform: translateY(-50%); }
+  width: 12.5em;
+  height: 2.1875em; }
 
 @media only screen and (min-width: 480px) {
   .logo img {
-    max-height: 45px; } }
+    width: 12.5em;
+    height: 2.1875em; } }
 nav.main {
   position: fixed;
   overflow: hidden;
