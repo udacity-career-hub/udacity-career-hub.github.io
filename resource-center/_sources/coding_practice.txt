@@ -19,7 +19,7 @@ Websites (Web Development)
     Upcase is an opportunity to gain new skills and reinforce old ones through coding exercises and interacting with its coding community. *Paid subscription.*
 
 `Code Wars <http://www.codewars.com/about>`_
-    Learn to code through real code challenges and interacting with other users! 
+    Learn to code through real code challenges and interacting with other users!
 
 .. _practice_data:
 
@@ -37,13 +37,13 @@ Websites (General Challenges)
 =============================
 
 `Google Code Jam <https://code.google.com/codejam/schedule.html>`_
-    Google Code Jam is a website designed to challenge professional and student programmers around the globe to solve difficult algorithmic puzzles. 
+    Google Code Jam is a website designed to challenge professional and student programmers around the globe to solve difficult algorithmic puzzles.
 
 `Coding Challenges <https://www.hackerrank.com/>`_
     This website features online coding challenges which companies use in their hiring processes.
 
 `Project Euler <https://projecteuler.net/>`_
-    Project Euler is a series of 500+ mathematical and computational problems designed to be solved programmatically.  It also includes levels, achievements and other community features. 
+    Project Euler is a series of 500+ mathematical and computational problems designed to be solved programmatically.  It also includes levels, achievements and other community features.
 
 .. _practice_mobile:
 
@@ -52,4 +52,4 @@ Mobile Apps
 ==================
 
 `Code Rust <http://coderust.com/>`_
-    This is an app to help you practice coding on the go - it is mobile and tablet friendly! 
+    This is an app to help you practice coding on the go - it is mobile and tablet friendly!

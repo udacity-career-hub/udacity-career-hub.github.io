@@ -11,10 +11,10 @@ Tips in the Job Search
 =======================
 
 `Tips to Keep in Mind <https://www.linkedin.com/pulse/20130911212503-15454-10-things-job-seekers-must-do-to-get-a-better-job>`_
-    Ten things to keep in mind when applying to jobs and interviewing. 
+    Ten things to keep in mind when applying to jobs and interviewing.
 
-`Best Practices in the Job Search <https://www.themuse.com/tags/job-search>`_ 
-    This website provides access to an array of articles related  to job-searching best practices. 
+`Best Practices in the Job Search <https://www.themuse.com/tags/job-search>`_
+    This website provides access to an array of articles related  to job-searching best practices.
 
 .. job_search_resources:
 
@@ -23,10 +23,10 @@ Resources
 ===============
 
 `Career Dean <https://www.careerdean.com/>`_
-    Career Dean is a search engine where you can ask questions and get answers from software engineers. 
+    Career Dean is a search engine where you can ask questions and get answers from software engineers.
 
 `Coding Apprentice <http://hugomelo.com/becoming-an-apprentice/>`_
-    This article gives personal advice on how to achieve success as a professional coder by being a Coding Apprentice. It has especially great tips for career transitions or non-college grads. 
+    This article gives personal advice on how to achieve success as a professional coder by being a Coding Apprentice. It has especially great tips for career transitions or non-college grads.
 
 `Jobipedia <http://www.jobipedia.org/>`_
-    Jobipedia is a great place to ask questions and search for information related to job searching and the interviewing process.  
+    Jobipedia is a great place to ask questions and search for information related to job searching and the interviewing process.

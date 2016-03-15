@@ -26,7 +26,7 @@ GitHub
 ========================
 
 `Intro to GitHub <https://help.github.com/articles/where-can-i-find-open-source-projects-to-work-on/>`_
-    Github’s help guide to using the site and finding projects to work on. This is also where you can also find informaton on how to contact someone for more personal support. 
+    Github’s help guide to using the site and finding projects to work on. This is also where you can also find informaton on how to contact someone for more personal support.
 
 .. _getting_started_github:
 
@@ -35,13 +35,13 @@ Getting Started
 ========================
 
 `How to Start Contributing <http://blog.udacity.com/2013/10/get-started-with-open-source-projects.html>`_
-    Written by Udacity’s own engineer and open source contributor, this article gives instructions on how to start contributing to open source projects. 
+    Written by Udacity’s own engineer and open source contributor, this article gives instructions on how to start contributing to open source projects.
 
-`Tips for Contributing <http://blog.newrelic.com/2014/05/05/open-source_gettingstarted/>`_ 
-    This article does a great job of giving your ideas on how to contribute to open source projects in little and big ways - every little bit helps! 
+`Tips for Contributing <http://blog.newrelic.com/2014/05/05/open-source_gettingstarted/>`_
+    This article does a great job of giving your ideas on how to contribute to open source projects in little and big ways - every little bit helps!
 
-`10 Tips to Start with Open Source <http://opensource.com/life/13/1/10-ways-get-started-open-source>`_ 
-     Don’t know where to get started with Open Source? This article outlines 10 helpful ways to begin. 
+`10 Tips to Start with Open Source <http://opensource.com/life/13/1/10-ways-get-started-open-source>`_
+     Don’t know where to get started with Open Source? This article outlines 10 helpful ways to begin.
 
 .. _find_projects:
 
@@ -50,7 +50,7 @@ Find Open Source Projects
 ==========================
 
 `Open Source Projects <https://docs.google.com/document/d/1ULcO23Edlydaf82zycRdSWHKUme5pmNnC4OoMefIZ-c/pub>`_
-    This list of open source projects was compiled by Udacity to help you find an open source project in your industry. 
-    
+    This list of open source projects was compiled by Udacity to help you find an open source project in your industry.
+
 `Free Code Camp <http://freecodecamp.com/>`_
     This open source community gives people opportunities to learn to code and then give back by helping non-profit organizations.

@@ -14,7 +14,7 @@ Code Portfolio (Github)
 
 The world’s largest Open Source Community is `GitHub <https://www.github.com>`_.
 
-Check out our `Career Development Workshop <https://docs.google.com/document/d/1p4jcycIlY7_howbMrM-Ylw_r-KztShh9B9__LMltzOE/pub?embedded=true>`_ on best practices for sharing your work on GitHub! Video `here <https://www.youtube.com/watch?feature=player_embedded&v=b0eKGS9dh30>`_.
+Check out our Career Development Workshop on `Becoming a GitHub Pro <https://docs.google.com/document/d/1p4jcycIlY7_howbMrM-Ylw_r-KztShh9B9__LMltzOE/pub?embedded=true>`_. Learn the best practices for sharing your work on GitHub! The video for the workshop can be found here: `Becoming a GitHub Pro Video <https://www.youtube.com/watch?feature=player_embedded&v=b0eKGS9dh30>`_.
 
 .. _portfolio_design:
 
@@ -31,7 +31,7 @@ Design Portfolio
     Dribble is a website were you can post and share your online design or art portfolio.
 
 `Behance <https://www.behance.net/>`_
-    Behance is a website to share and discover creative work - share your portfolio here. 
+    Behance is a website to share and discover creative work - share your portfolio here.
 
 .. _portfolio_diy:
 
@@ -41,7 +41,7 @@ Do-It-Yourself Portfolio
 
 Why use a web service when you can create your own portfolio? If you’re familiar with web development, you can make your own website to showcase your work.
 
-If you have less web development experience, use `WordPress <https://www.wordpress.com>`_ as a tool to make your own unique portfolio website. 
+If you have less web development experience, use `WordPress <https://www.wordpress.com>`_ as a tool to make your own unique portfolio website.
 
 ==================================
 Storytelling and Personal Branding
