@@ -13,19 +13,19 @@ Students in Udacity’s Nanodegree programs can submit Dry-Run Interview Project
 	What are the different types of data questions you could be asked? How would you tackle a question asking you to construct a query differently from a question about statistical models or probability?
 
 `Full Stack Web Developer <https://www.udacity.com/course/full-stack-web-developer-nanodegree--nd004>`_
-	What are the components you need to address when answering a question about web security? How would you approach writing code while explaining your reasoning for it? 
-	
+	What are the components you need to address when answering a question about web security? How would you approach writing code while explaining your reasoning for it?
+
 `iOS Developer <https://www.udacity.com/course/ios-developer-nanodegree--nd003>`_
 	How would you address design and development questions using Apple's iOS Software Development Kit?
-	
+
 `Android Developer <https://www.udacity.com/course/android-developer-nanodegree--nd801>`_
 	How would you design and develop an Android app using the most efficient methods?
-	
+
 These interview courses are also available in Udacity's `Career Advisor <https://www.udacity.com/career-advisor>`_ programs!
 
 We are currently working to expand these interview projects into other Nanodegree programs. Stay tuned!
 
-Additionally, check out all of these options for technical interview practice. There are many ways to prep for an interview and you can decide what is most helpful for you! We recommend…. 
+Additionally, check out all of these options for technical interview practice. There are many ways to prep for an interview and you can decide what is most helpful for you! We recommend….
 
 .. _technical_general:
 
@@ -56,7 +56,7 @@ Web Practice
 
 - `interviewing.io <http://interviewing.io/>`_
    Practice interviewing with engineers from top companies, anonymously. Get better at algorithmic problems and find a job!
-   
+
 - `InterviewBit <https://www.interviewbit.com/>`_
    Learn and practice on almost all coding interview questions asked historically and get referred to the best tech companies!
 
@@ -70,13 +70,13 @@ Web Practice
     Comprehensive course which will help you prepare for a technical interview! *Paid subscription only.*
 
 - `Big O Cheat Sheet <http://bigocheatsheet.com/>`_
-    This webpage gives you a big FREE cheat sheet for general coding and your upcoming technical interview. It includes the best, average and worst case complexities for search and sorting algorithms. 
+    This webpage gives you a big FREE cheat sheet for general coding and your upcoming technical interview. It includes the best, average and worst case complexities for search and sorting algorithms.
 
 - `List of Programming Interview Questions <http://www.reddit.com/r/cscareerquestions/comments/20ahfq/heres_a_pretty_big_list_of_programming_interview/>`_
-    Looking for a list of programming practice interview questions? Look no further - this website gives a long list of questions for you to practice your coding. 
-    
+    Looking for a list of programming practice interview questions? Look no further - this website gives a long list of questions for you to practice your coding.
+
 - `Project Euler <https://projecteuler.net/>`_
-    Project Euler is a series of 500+ mathematical and computational problems designed to be solved programmatically.  It also includes levels, achievements and other community features. 
+    Project Euler is a series of 500+ mathematical and computational problems designed to be solved programmatically.  It also includes levels, achievements and other community features.
 
 .. _technical_books:
 
@@ -87,13 +87,13 @@ Books
 If you find the online resources above not sufficient enough for your interview preparation, you might want to consider these books!
 
 `Cracking the Coding Interview by Gayle Laakmann McDowell <http://www.amazon.com/Cracking-Coding-Interview-Programming-Questions/dp/098478280X>`_
-    This best selling book offers 150 programming questions and solutions to help you practice coding and ace your upcoming technical interview questions. 
+    This best selling book offers 150 programming questions and solutions to help you practice coding and ace your upcoming technical interview questions.
 
 `Programming Interviews Exposed: Secrets to Your Next Job by John Mongan, Noah Kindler, Eric Giguère <http://www.amazon.com/Programming-Interviews-Exposed-Secrets-Landing/dp/1118261364>`_
-    This is  popular guide to programming interviews includes code examples, information on the latest languages,  chapters on sorting and design patterns, tips on using LinkedIn, and a downloadable app to help prepare applicants for the interview. 
+    This is  popular guide to programming interviews includes code examples, information on the latest languages,  chapters on sorting and design patterns, tips on using LinkedIn, and a downloadable app to help prepare applicants for the interview.
 
 `Elements of Programming Interviews: The Insiders' Guide by Tsung-Hsien Lee and  Amit Prakash <http://www.amazon.com/Elements-Programming-Interviews-Insiders-Guide/dp/1479274836>`_
-    This book features a great compilation for programming related problems for interview prep, general refreshers, or simply brain teasers. 
+    This book features a great compilation for programming related problems for interview prep, general refreshers, or simply brain teasers.
 
 .. _technical_data_science:
 
@@ -101,18 +101,18 @@ If you find the online resources above not sufficient enough for your interview 
 Data Science
 ============
 
-`Data Science Sample Questions <http://www.datasciencecentral.com/profiles/blogs/66-job-interview-questions-for-data-scientists>`_ 
+`Data Science Sample Questions <http://www.datasciencecentral.com/profiles/blogs/66-job-interview-questions-for-data-scientists>`_
     Unsure what questions to expect in your interview? Take a look at this list of 66 sample questions.
 
-`Quora: Preparing for a Data Science Interview <http://www.quora.com/How-do-I-prepare-for-a-data-scientist-interview>`_ 
+`Quora: Preparing for a Data Science Interview <http://www.quora.com/How-do-I-prepare-for-a-data-scientist-interview>`_
     This post will expose you to a few perspectives on how to prepare for your next data science interview.
 
 `Data Science Questions <http://www.datasciencequestions.com/>`_
-    This book costs $19, but is complied by experts in the field. 
+    This book costs $19, but is complied by experts in the field.
 
-`Quora: Practice Questions <http://www.quora.com/What-are-some-good-toy-problems-in-data-science>`_ 
+`Quora: Practice Questions <http://www.quora.com/What-are-some-good-toy-problems-in-data-science>`_
     If you are looking for some easy one-person sample problems, check out this Quora post, which details several practice questions.
-    
+
 `Questions From Data Science Interviews <http://blog.udacity.com/2015/04/data-science-interview-questions.html>`_
     A blog on how to approach a data science job interview.
 

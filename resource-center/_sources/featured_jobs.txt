@@ -10,7 +10,7 @@ Featured Jobs
 Android                 Fitbit                         `Android Engineer <https://www.fitbit.com/jobs/search#jobs/oNk0XfwO>`_
 Android                 Airbnb                         `Android Engineer <https://www.airbnb.com/careers/departments/position/2281>`_
 Android                 Facebook                       `Android Engineer <https://www.facebook.com/careers/jobs/a0IA0000006cQTSMA2/>`_
-iOS                     Udacity                        `iOS Developer <https://www.google.com/url?q=https://jobs.lever.co/udacity/f4329ad4-af86-41a2-94ef-5e9c491028b2&sa=D&ust=1457660973968000&usg=AFQjCNF76loLt3PV9rTxeCjSTx-jIFr67A>`_
+iOS                     Udacity                        `iOS Developer <https://jobs.lever.co/udacity/f4329ad4-af86-41a2-94ef-5e9c491028b2&sa=D&ust=1457660973968000&usg=AFQjCNF76loLt3PV9rTxeCjSTx-jIFr67A>`_
 iOS                     Pixured Inc                    `Mobile Software Developer <http://www.indeed.com/cmp/Pixured,-Inc./jobs/Mobile-Software-Developer-e90fe830f2f6d80e?sjdu=QwrRXKrqZ3CNX5W-O9jEvatqOhFGIqubCvtT8AzcSucF4bpKjscnMnzPFjGwUT8pPRv9Ko0P6kpPr63awYvyyEFoedGQjtfjC-V3jmNoPpE>`_
 iOS                     Eagle Eye Networks             `iOS Developer <http://www.indeed.com/cmp/Eagle-Eye-Networks,-Inc/jobs/Mobile-Developer-c2269edf8b37c619?sjdu=QwrRXKrqZ3CNX5W-O9jEvatqOhFGIqubCvtT8AzcSucwKsmRfM0NoP3wYHxCfCnTEGqIejuWXZpTInUF1w7kjwXvmbMBNPAUzj20yfU4dyZEJzS1OEUDGMHIe_hZDLd1>`_
 iOS                     Bank of America                `Mobile Applications Developer <http://careers.bankofamerica.com/job-detail/16009869/united-states/us/mobile-application-developer?apstr=%26src%3DJB-11684>`_

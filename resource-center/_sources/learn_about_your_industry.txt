@@ -14,7 +14,7 @@ Links below are organized by specific industry, to help you jumpstart your resea
 ===========================
 Career Development Workshop
 ===========================
-    Check out Udacity's `Career Development Workshop <https://docs.google.com/document/d/1SOAStLm9pDnNI6klpxtCqGtUrRxT4rDydh5PTk6PsMA/pub?embedded=true>`_ on this topic. Video `here <https://www.youtube.com/watch?feature=player_embedded&v=Ek88SNthVPc>`_.
+    Check out Udacity's `Researching Your Industry <https://docs.google.com/document/d/1SOAStLm9pDnNI6klpxtCqGtUrRxT4rDydh5PTk6PsMA/pub?embedded=true>`_ on this topic. The video to the workshop can be found here: `Researching Your Industry Video <https://www.youtube.com/watch?feature=player_embedded&v=Ek88SNthVPc>`_.
 
 .. _industry_data_science:
 

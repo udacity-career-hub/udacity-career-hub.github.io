@@ -1,15 +1,15 @@
 .. _finding_work_getting_started:
 
 *************************************
-Getting Started 
+Getting Started
 *************************************
 
-Check out Udacity's `Career Development Workshop <https://docs.google.com/document/d/1XJf0wYWIoHWfM8Ep6xIkuBw6tmAlyMW5l37bEgeSoSA/pub?embedded=true>`_ which covers the basics on how to get started finding work opportunities. You can find the video to the workshop `here <https://www.youtube.com/watch?feature=player_embedded&v=OP1CJbQpMHA>`_. 
+Check out Udacity's Career Development Workshop on `Pathways to Jobs <https://docs.google.com/document/d/1XJf0wYWIoHWfM8Ep6xIkuBw6tmAlyMW5l37bEgeSoSA/pub?embedded=true>`_ which covers the basics on how to get started finding work opportunities. The video for the workshop can be found here: `Pathways to Jobs Video <https://www.youtube.com/watch?feature=player_embedded&v=OP1CJbQpMHA>`_.
 
 Additionally, here are two articles which give more specific advice on what to do and not do to land your next gig.
- 
+
 - `How to Get Your Next Interview <https://www.linkedin.com/pulse/20140924220547-15454-4-new-ideas-for-getting-your-next-job-interview>`_
 
-- `Make Your Job Hunt More Efficient <https://www.linkedin.com/pulse/20140725005005-15454-why-posting-your-resume-is-the-least-effective-way-to-get-a-job>`_ 
+- `Make Your Job Hunt More Efficient <https://www.linkedin.com/pulse/20140725005005-15454-why-posting-your-resume-is-the-least-effective-way-to-get-a-job>`_
 
-If you've taken time off from work, for whatever reason, check out the following article on `How to explain gaps in your work history <http://advice.careerbuilder.com/posts/how-to-explain-gaps-in-your-work-history>`_. Another great resource is `iRelaunch <https://www.irelaunch.com/>`_, which provides advice and coaching on career reentry. 
+If you've taken time off from work, for whatever reason, check out the following article on `How to explain gaps in your work history <http://advice.careerbuilder.com/posts/how-to-explain-gaps-in-your-work-history>`_. Another great resource is `iRelaunch <https://www.irelaunch.com/>`_, which provides advice and coaching on career reentry.
