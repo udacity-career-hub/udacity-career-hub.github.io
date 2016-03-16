@@ -20,7 +20,6 @@ $(document).ready(function() {
       evt.preventDefault();
       var href = $(this).attr('href');
       var text = this.text;
-      debugger;
       analytics.track('Clicked Nav Link', {
         linkText: text,
         category: 'Navigation',
