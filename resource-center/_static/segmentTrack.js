@@ -55,7 +55,7 @@ $(document).ready(function() {
       var href = $(this).attr('href');
       var text = this.text
       // track clicks on feature jobs separately
-      if (link.closest('#featured-jobs').length) {
+      if ($(evt.target).closest('#featured-jobs').length > 0) {
         analytics.track('Clicked Job',  {
           linkText: text,
           category: 'Featured Job',
