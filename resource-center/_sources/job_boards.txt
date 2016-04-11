@@ -8,6 +8,8 @@ Job Boards
 
 * `R Users <http://www.r-users.com/>`_ is a job board for data analysts, data scientists, R developers, and other positions. Listings include freelance, full-time and part-time opportunities
 
+* `Kaggle <https://www.kaggle.com/jobs>`_ lists job opportunities, including remote and part-time opportunities, for those interested in data science and machine learning.
+
 * `Jr. Dev Jobs <https://www.jrdevjobs.com/>`_, which also showcases Profiles of aspiring developers
 
 * `Launch Code <https://launchcode.org>`_ is a non-profit that matches candidates with paid apprenticeships and jobs

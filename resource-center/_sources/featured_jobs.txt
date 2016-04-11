@@ -4,29 +4,48 @@
 Featured Jobs
 *************
 
-======================  =============================  ==================================================================================================================================================================================================================================================================================================
-**Nanodegree Program**  **Company**                    **Job Title and Link**
-----------------------  -----------------------------  --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-Android                 Fitbit                         `Android Engineer <https://www.fitbit.com/jobs/search#jobs/oNk0XfwO>`_
-Android                 Airbnb                         `Android Engineer <https://www.airbnb.com/careers/departments/position/2281>`_
-Android                 Facebook                       `Android Engineer <https://www.facebook.com/careers/jobs/a0IA0000006cQTSMA2/>`_
-iOS                     Udacity                        `iOS Developer <https://jobs.lever.co/udacity/f4329ad4-af86-41a2-94ef-5e9c491028b2&sa=D&ust=1457660973968000&usg=AFQjCNF76loLt3PV9rTxeCjSTx-jIFr67A>`_
-iOS                     Pixured Inc                    `Mobile Software Developer <http://www.indeed.com/cmp/Pixured,-Inc./jobs/Mobile-Software-Developer-e90fe830f2f6d80e?sjdu=QwrRXKrqZ3CNX5W-O9jEvatqOhFGIqubCvtT8AzcSucF4bpKjscnMnzPFjGwUT8pPRv9Ko0P6kpPr63awYvyyEFoedGQjtfjC-V3jmNoPpE>`_
-iOS                     Eagle Eye Networks             `iOS Developer <http://www.indeed.com/cmp/Eagle-Eye-Networks,-Inc/jobs/Mobile-Developer-c2269edf8b37c619?sjdu=QwrRXKrqZ3CNX5W-O9jEvatqOhFGIqubCvtT8AzcSucwKsmRfM0NoP3wYHxCfCnTEGqIejuWXZpTInUF1w7kjwXvmbMBNPAUzj20yfU4dyZEJzS1OEUDGMHIe_hZDLd1>`_
-iOS                     Bank of America                `Mobile Applications Developer <http://careers.bankofamerica.com/job-detail/16009869/united-states/us/mobile-application-developer?apstr=%26src%3DJB-11684>`_
-Front End               Udacity                        `Front End Developer <https://jobs.lever.co/udacity/95fe60a7-3ef7-4651-91cf-f1210f509e1a>`_
-Front End               Dollar Shave Club              `Front End Developer <https://www.looksharp.com/organizations/dollar-shave-club/listings/front-end-engineer?s%5Bfilters%5D%5Blisting_type%5D%5B%5D=Internship&s%5Bfilters%5D%5Blisting_type%5D%5B%5D=Entry-Level+Job&s%5Bpage%5D=1&s%5Bper_page%5D=10&s%5Bq%5D=front+end&s%5Bsort%5D=relevance>`_
-Front End               Web End Solutions              `Front End Developer <https://www.websolutions.com/careers/front-end-developer/>`_
-Front End               Walmart                        `Front End Software Engineer <https://jobs.walmart.com/us/jobs/666775-5022/SAN-BRUNO-CA-Front-End-Software-Engineer?lang=en-US>`_
-Full Stack              Rackspace                      `Full Stack Engineer <https://uscareers-rackspace.icims.com/jobs/15971/software-developer/job?mode=job&iis=Job+Board+-+Indeed.com&iisn=Indeed.com&mobile=false&width=960&height=500&bga=true&aneedsRedirect=false&jan1offset=-480&jun1offset=-420>`_
-Full Stack              CZ Consultants                 `Full Stack Engineer (Contract) <http://www.indeed.com/cmp/CZ-Consultants/jobs/Full-Stack-Developer-dbae664970594888?q=Full+Stack+Engineer>`_
-Full Stack              Goldfish (Target)              `Full Stack Engineer <https://jobs.target.com/job/-/-/1118/1633536?apstr=%26src%3DJB-10182>`_
-Data Analysis           Zeta Interactive               `Data Analyst, Marketplace Insights <http://hire.jobvite.com/CompanyJobs/Careers.aspx?k=Job&c=qoWaVfw9&j=oFaH2fwi&s=Indeed&source=Indeed.com>`_
-Data Analysis           Levi Strauss, & Co.            `Data Analyst <https://levistraussandco.wd5.myworkdayjobs.com/en-US/External/job/US-CA-San-Francisco-Battery-St-Corporate/Analyst--Marketplace-Insights_R-14903-1>`_
-Data Analysis           WorkDay                        `Data Analyst <http://www.workday.com/company/careers/job_description.php?id=JR12721&source=indeed#.Vt83CFMrJmA>`_
-Data Analysis           Perfect World Entertainment    `Data Analyst <http://chj.tbe.taleo.net/chj06/ats/careers/requisition.jsp?org=PERFWORL&cws=37&rid=32>`_
-Machine Learning        CoreLogic                      `Data Scientist <https://sjobs.brassring.com/TGWEbHost/jobdetails.aspx?jobId=2347160&PartnerId=25651&SiteId=5472&codes=ININD>`_
-Machine Learning        Expedia                        `Data Scientist <http://expediajobs.findly.com/career/51539/Data-Scientist-Washington-Wa-Bellevue?feedId=1434&utm_source=Indeed&sourceType=PREMIUM_POST_SITE&source=INDEED>`_
-Machine Learning        Leidos                         `Data Scientist <http://jobs.leidos.com/ShowJob/Id/766151/Data%20Scientist>`_
-Machine Learning        Gannett Peak                   `Data Scientist <https://www.smartrecruiters.com/GannettPeakTechnicalServices/89972371-data-scientist>`_
-======================  =============================  ==================================================================================================================================================================================================================================================================================================
+======================  =============================  ============================  ================================================================================================================================================================================================================================================
+**Nanodegree Program**  **Company**                    **Location**                  **Job Title and Link**
+----------------------  -----------------------------  ----------------------------  ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Android                 Proximate Technologies         Plano TX                      `Android Developer <http://www.simplyhired.com/job/tfag4rd3sc>`_
+Android                 Axxess                         Dallas TX                     `Android Developer Intern <http://www.simplyhired.com/job/utvwxkc5zm>`_
+Android                 Workbridge Associates          San Francisco CA              `Junior Android Developer <http://www.simplyhired.com/job/bbdoupzdco>`_
+Android                 Facebook                       Mountain View CA              `Mobile Software Engineer <http://www.simplyhired.com/job/p4jfvuu4d4>`_
+Android                 Ibotta                         Denver CO                     `Android Engineer <http://www.simplyhired.com/job/gndncet4xl>`_
+Android                 Airbnb                         San Francisco CA              `Android Engineer <https://www.airbnb.com/careers/departments/position/2281>`_
+Android                 Facebook                       Menlo Park CA                 `Android Engineer <https://www.facebook.com/careers/jobs/a0IA0000006cQTSMA2/>`_
+iOS                     Tastemade                      Austin TX                     `iOS Developer <http://www.simplyhired.com/job/ai3ve43knd>`_
+iOS                     Womply                         San Francisco CA              `iOS Developer <http://www.simplyhired.com/job/3rqs3yviur>`_
+iOS                     Mae Strategic Solutions        Union NJ                      `Native iOS Developer <http://www.simplyhired.com/job/ymr636nuye>`_
+iOS                     Resolution Technologies        Atlanta GA                    `Mobile Developer <http://www.simplyhired.com/job/zanlcogcpj>`_
+iOS                     Wanelo                         San Francisco CA              `iOS Software Engineer <http://www.simplyhired.com/job/7qolrslil5>`_
+iOS                     Udacity                        Mountain View CA              `iOS Developer <https://jobs.lever.co/udacity/f4329ad4-af86-41a2-94ef-5e9c491028b2&sa=D&ust=1457660973968000&usg=AFQjCNF76loLt3PV9rTxeCjSTx-jIFr67A>`_
+iOS                     Pixured Inc                    Palo Alto CA                  `Mobile Software Developer <http://www.indeed.com/cmp/Pixured,-Inc./jobs/Mobile-Software-Developer-e90fe830f2f6d80e?sjdu=QwrRXKrqZ3CNX5W-O9jEvatqOhFGIqubCvtT8AzcSucF4bpKjscnMnzPFjGwUT8pPRv9Ko0P6kpPr63awYvyyEFoedGQjtfjC-V3jmNoPpE>`_
+iOS                     Eagle Eye Networks             Austin TX                     `iOS Developer <http://www.indeed.com/cmp/Eagle-Eye-Networks,-Inc/jobs/Mobile-Developer-c2269edf8b37c619?sjdu=QwrRXKrqZ3CNX5W-O9jEvatqOhFGIqubCvtT8AzcSucwKsmRfM0NoP3wYHxCfCnTEGqIejuWXZpTInUF1w7kjwXvmbMBNPAUzj20yfU4dyZEJzS1OEUDGMHIe_hZDLd1>`_
+Front End               Nexient                        Ann Arbor MI                  `Junior Front End Developer <https://www.firstjob.com/jobs/e6mal7b/nexient-junior-front-end-developer/>`_
+Front End               Excu-Search                    New York NY                   `Front End Developer <http://www.execu-search.com/job-seekers/242654/information-technology>`_
+Front End               John McNeil Studio             Berkeley CA                   `Technologist <http://www.simplyhired.com/job/29921.77258>`_
+Front End               Upwork                         Mountain View CA              `Front End Engineer - Mobile <http://www.simplyhired.com/job/nw37ti6wvq>`_
+Front End               CyberCoders                    Tuscon AZ                     `Front End Web Developer <http://www.simplyhired.com/job/hnpwar3ygo>`_
+Front End               Udacity                        Mountain View CA              `Front End Developer <https://jobs.lever.co/udacity/95fe60a7-3ef7-4651-91cf-f1210f509e1a>`_
+Front End               Web End Solutions              Meriden CT                    `Front End Developer <https://www.websolutions.com/careers/front-end-developer/>`_
+Front End               Walmart                        San Bruno CA                  `Front End Software Engineer <https://jobs.walmart.com/us/jobs/666775-5022/SAN-BRUNO-CA-Front-End-Software-Engineer?lang=en-US>`_
+Full Stack              Nexient                        Ann Arbor MI                  `Software Developer <https://www.firstjob.com/jobs/1fj5xll/nexient-software-developer/>`_
+Full Stack              Uber                           San Francisco CA              `Software Engineer, Full Stack <http://www.simplyhired.com/job/adcgmpeti7>`_
+Full Stack              Capital One                    Wilmington DE                 `Software Engineer, Full Stack <http://www.simplyhired.com/job/uv2tmnasrm>`_
+Full Stack              Workbridge Assciates           San Francisco CA              `Full Stack Software Engineer <http://www.simplyhired.com/job/cncux3uuyp>`_
+Full Stack              Principal Solutions Group      Symrna GA                     `Junior Java Developer <http://www.simplyhired.com/job/x62idbxzsv>`_
+Full Stack              CZ Consultants                 San Franicsco CA              `Full Stack Engineer (Contract) <http://www.indeed.com/cmp/CZ-Consultants/jobs/Full-Stack-Developer-dbae664970594888?q=Full+Stack+Engineer>`_
+Full Stack              Goldfish (Target)              Sunnyvale CA                  `Full Stack Engineer <https://jobs.target.com/job/-/-/1118/1633536?apstr=%26src%3DJB-10182>`_
+Data Analysis           City National Bank             Los Angeles CA                `Quantitative/Data Analyst <http://www.careerarc.com/job-listing/city-national-bank-jobs-quantitative-data-analyst-17868454>`_
+Data Analysis           Accenture                      Alexandria VA                 `Data Scientist Analyst <http://jobs.diversityinc.com/index.php?page=view_job&post_id=707012>`_
+Data Analysis           Adecco                         Mountain View CA              `Data Analyst <http://www.simplyhired.com/job/smzne4wj45>`_
+Data Analysis           Levi Strauss, & Co.            San Francisco CA              `Data Analyst <https://levistraussandco.wd5.myworkdayjobs.com/en-US/External/job/US-CA-San-Francisco-Battery-St-Corporate/Analyst--Marketplace-Insights_R-14903-1>`_
+Data Analysis           WorkDay                        San Francisco CA              `Data Analyst <http://www.workday.com/company/careers/job_description.php?id=JR12721&source=indeed#.Vt83CFMrJmA>`_
+Data Analysis           Perfect World Entertainment    Redwood City CA               `Data Analyst <http://chj.tbe.taleo.net/chj06/ats/careers/requisition.jsp?org=PERFWORL&cws=37&rid=32>`_
+Machine Learning        Accenture                      Alexandria VA                 `Data Scientist Analyst <http://jobs.diversityinc.com/index.php?page=view_job&post_id=707012>`_
+Machine Learning        Twitter                        New York NY                   `Data Scientist <https://www.velvetjobs.com/sh/featuredjob/media/guest/306909>`_
+Machine Learning        Foursquare                     New York NY                   `Data Scientist <https://jobs.lever.co/foursquare/f40f49a1-d511-4796-9d96-3b65789abff3>`_
+Machine Learning        CoreLogic                      Irvine CA                     `Data Scientist <https://sjobs.brassring.com/TGWEbHost/jobdetails.aspx?jobId=2347160&PartnerId=25651&SiteId=5472&codes=ININD>`_
+Machine Learning        Leidos                         Washington DC                 `Data Scientist <http://jobs.leidos.com/ShowJob/Id/763685/Data-Scientist/>`_
+======================  =============================  ============================  ================================================================================================================================================================================================================================================
