@@ -7,6 +7,18 @@ Featured Jobs
 ======================  =============================  ============================  ================================================================================================================================================================================================================================================
 **Nanodegree Program**  **Company**                    **Location**                  **Job Title and Link**
 ----------------------  -----------------------------  ----------------------------  ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Android                 Zazzle                         Redwood City CA               `Mobile Engineer <http://app.jobvite.com/CompanyJobs/Careers.aspx?c=qLr9Vfw0&s=Stack_Overflow&nl=1&page=Job%20Description&j=oAnc2fwV>`_
+Android                 Grab                           Houston TX                    `Mobile App Developer <https://grab.workable.com/jobs/195663>`_
+Android                 Robert Half                    Boulder CO                    `Android Developer <http://rhi.jobs/boulder-co/android-developer/A2C463920B71456794EEE73583B5BB08/job/>`_
+Android                 Pixio                          Salt Lake City UT             `Android Developer <http://pixio.breezy.hr/p/7e1d041707cc-20163>`_
+Android                 PT Systems                     San Francisco CA              `Android Developer <https://www.dice.com/jobs/detail/10267832/489704>`_
+Android                 Fabergent                      Dallas TX                     `Android Developer <https://www.smartrecruiters.com/Fabergent/90749110-android-developer>`_
+Android                 Buzztime                       Carlsbad CA                   `Jr. Android Developer <https://rn22.ultipro.com/Ntn1000/JobBoard/JobDetails.aspx?__ID=*19A14D1E3E03BB23&__jbsrc=48DD579C-1DC5-4394-83E9-6AD1396C3BF3>`_
+Android                 Gametime                       San Francisco CA              `Android Engineer <https://jobs.lever.co/gametime/ad03b6ba-8ef3-4205-9112-47e8bfb114ce>`_
+Android                 Motorola Mobility              Chicago IL                    `Anroid Engineer Intern <https://motomobi.taleo.net/careersection/2/jobdetail.ftl?job=150000SX>`_
+Android                 Metova                         Fayetteville AL               `Jr. Android Engineer <https://metova.workable.com/jobs/226646>`_
+Android                 Ledgent Technology             San Diego CA                  `Android Developer <https://careers.ledgenttech.com/job/10617/jr--android-developer/ca/san-diego?distance=15>`_
+Android                 Tinder                         Los Angelos CA                `Android Engineer <https://www.gotinder.com/jobs?gh_jid=107121&gh_src=dti40v>`_
 Android                 Proximate Technologies         Plano TX                      `Android Developer <http://www.simplyhired.com/job/tfag4rd3sc>`_
 Android                 Axxess                         Dallas TX                     `Android Developer Intern <http://www.simplyhired.com/job/utvwxkc5zm>`_
 Android                 Workbridge Associates          San Francisco CA              `Junior Android Developer <http://www.simplyhired.com/job/bbdoupzdco>`_
@@ -14,6 +26,18 @@ Android                 Facebook                       Mountain View CA         
 Android                 Ibotta                         Denver CO                     `Android Engineer <http://www.simplyhired.com/job/gndncet4xl>`_
 Android                 Airbnb                         San Francisco CA              `Android Engineer <https://www.airbnb.com/careers/departments/position/2281>`_
 Android                 Facebook                       Menlo Park CA                 `Android Engineer <https://www.facebook.com/careers/jobs/a0IA0000006cQTSMA2/>`_
+iOS                     Hayneedle                      Omaha NE                      `iOS Developer <https://www5.recruitingcenter.net/clients/netshops/publicjobs/controller.cfm?jbaction=JobProfile&Job_Id=11039&esid=az>`_
+iOS                     Zazzle                         Redwood City CA               `Mobile Engineer <http://app.jobvite.com/CompanyJobs/Careers.aspx?c=qLr9Vfw0&s=Stack_Overflow&nl=1&page=Job%20Description&j=oAnc2fwV>`_
+iOS                     Pixio                          Salt Lake City UT             `iOS Developer <http://pixio.breezy.hr/p/3f2e7664042e-20163>`_
+iOS                     Bottle Rocket                  Dallas TX                     `iOS Software Engineer <https://careers.jobscore.com/careers/bottlerocket/jobs/ios-software-engineer-bFo1KynO8r4Ba4eJe4bk1X>`_
+iOS                     Affirm                         San Francisco CA              `iOS Software Engineer <https://jobs.lever.co/affirm/636ba620-fc4c-49ff-940a-645e7f64b96f>`_
+iOS                     Clevertech                     New York NY                   `Imaginative iOS Developer <https://hire.clevertech.biz/job/53c7d351b97f91f7564c3ce9>`_
+iOS                     HotelTonight                   San Francisco CA              `iOS Engineer <https://www.themuse.com/jobs/hoteltonight/ios-engineer-c848b7>`_
+iOS                     Mobiquity                      Gainesville FL                `Jr. iOS Engineer <https://www.mobiquityinc.com/about/careers/oZiM2fwP?s=JrDevJobs>`_
+iOS                     JobSpring Partners             Los Angeles CA                `Jr. iOS Engineer <http://www.jobspringpartners.com/tech-jobs/los-angeles-ca/ios/junior-ios-engineer/261333>`_
+iOS                     Kettle                         New York NY                   `iOS Developer <https://boards.greenhouse.io/kettle/jobs/133066?t=24ryom#.VwbzqhIrKu4>`_
+iOS                     Whistle Labs                   San Francisco CA              `iOS Developer <http://whistle.applytojob.com/apply/job_20160314235541_CBLVN8H2QFZZXM1A/IOS-Developer>`_
+iOS                     Lyft                           Seattle WA                    `iOS Developer <https://jobs.lever.co/lyft/631a7e82-65e3-44c3-8568-f3ad20c164cf>`_
 iOS                     Tastemade                      Austin TX                     `iOS Developer <http://www.simplyhired.com/job/ai3ve43knd>`_
 iOS                     Womply                         San Francisco CA              `iOS Developer <http://www.simplyhired.com/job/3rqs3yviur>`_
 iOS                     Mae Strategic Solutions        Union NJ                      `Native iOS Developer <http://www.simplyhired.com/job/ymr636nuye>`_
@@ -22,28 +46,56 @@ iOS                     Wanelo                         San Francisco CA         
 iOS                     Udacity                        Mountain View CA              `iOS Developer <https://jobs.lever.co/udacity/f4329ad4-af86-41a2-94ef-5e9c491028b2&sa=D&ust=1457660973968000&usg=AFQjCNF76loLt3PV9rTxeCjSTx-jIFr67A>`_
 iOS                     Pixured Inc                    Palo Alto CA                  `Mobile Software Developer <http://www.indeed.com/cmp/Pixured,-Inc./jobs/Mobile-Software-Developer-e90fe830f2f6d80e?sjdu=QwrRXKrqZ3CNX5W-O9jEvatqOhFGIqubCvtT8AzcSucF4bpKjscnMnzPFjGwUT8pPRv9Ko0P6kpPr63awYvyyEFoedGQjtfjC-V3jmNoPpE>`_
 iOS                     Eagle Eye Networks             Austin TX                     `iOS Developer <http://www.indeed.com/cmp/Eagle-Eye-Networks,-Inc/jobs/Mobile-Developer-c2269edf8b37c619?sjdu=QwrRXKrqZ3CNX5W-O9jEvatqOhFGIqubCvtT8AzcSucwKsmRfM0NoP3wYHxCfCnTEGqIejuWXZpTInUF1w7kjwXvmbMBNPAUzj20yfU4dyZEJzS1OEUDGMHIe_hZDLd1>`_
-Front End               Nexient                        Ann Arbor MI                  `Junior Front End Developer <https://www.firstjob.com/jobs/e6mal7b/nexient-junior-front-end-developer/>`_
-Front End               Excu-Search                    New York NY                   `Front End Developer <http://www.execu-search.com/job-seekers/242654/information-technology>`_
+Front End               Detectica                      New York NY                   `Front End Engineer <https://detectica.workable.com/jobs/224198>`_
+Front End               Yola                           San Francisco CA              `Front End Engineer <http://stackoverflow.com/jobs/96527/frontend-engineer-yola?searchTerm=frontend&offset=22>`_
+Front End               Leadfrog Online                Evanston IL                   `Front End Developer <http://app.jobvite.com/CompanyJobs/Careers.aspx?k=Job&c=q6l9Vfwf&j=o8tZ2fwm>`_
+Front End               TEEMA Solutions                Denver CO                     `Front End Engineer <http://www.teemagroup.com/apply-here/?cjobid=ST864974323&rpid=46074>`_
+Front End               Glassdoor                      Mill Valley CA                `Associate Web Developer <http://jobs.jobvite.com/careers/glassdoor/job/o3ov2fwI>`_
+Front End               HZDG                           DC Metro Area                 `Jr. Front End Developer <http://www.hzdg.com/careers/junior-front-end-developer-dc-metro>`_
+Front End               Invest Cloud                   San Francisco CA              `Jr. Front End Developer <https://www.ziprecruiter.com/jobs/investcloud-7960f451/junior-front-end-developer-f8918ded?mid=3429>`_
+Front End               ICF International              Arlington VA                  `Jr. Front End Developer <https://icfi.taleo.net/careersection/icf_prof_ext/jobdetail.ftl?job=1500003051>`_
+Front End               VM Turbo                       Boston MA                     `Jr. Front End Web Developer <https://jobs-vmturbo.icims.com/jobs/1131/junior-front-end-web-developer/job>`_
+Front End               Publishers Clearing House      New York NY                   `Jr. Front End Developer <https://pch.silkroad.com/epostings/index.cfm?fuseaction=app.dspjob&jobid=304114&company_id=15489&version=1&jobBoardId=1112>`_
+Front End               IXL Learning                   San Mateo CA                  `Front End Software Engineer <https://www.ixl.com/company/jobs?nl=1&jvi=oW9vZfwj,Job&jvs=SimplyHired&jvk=Job>`_
+Front End               Punch Agency                   New York NY                   `Front End Engineer <https://www.smartrecruiters.com/PunchAgency/91209036-front-end-developer-new-york?fp7=613>`_
+Front End               Happie                         Cambridge MA                  `Front End Developer <http://venturefizz.com/jobs/front-end-developer-at-happie-cambridge-ma>`_
 Front End               John McNeil Studio             Berkeley CA                   `Technologist <http://www.simplyhired.com/job/29921.77258>`_
 Front End               Upwork                         Mountain View CA              `Front End Engineer - Mobile <http://www.simplyhired.com/job/nw37ti6wvq>`_
 Front End               CyberCoders                    Tuscon AZ                     `Front End Web Developer <http://www.simplyhired.com/job/hnpwar3ygo>`_
 Front End               Udacity                        Mountain View CA              `Front End Developer <https://jobs.lever.co/udacity/95fe60a7-3ef7-4651-91cf-f1210f509e1a>`_
-Front End               Web End Solutions              Meriden CT                    `Front End Developer <https://www.websolutions.com/careers/front-end-developer/>`_
 Front End               Walmart                        San Bruno CA                  `Front End Software Engineer <https://jobs.walmart.com/us/jobs/666775-5022/SAN-BRUNO-CA-Front-End-Software-Engineer?lang=en-US>`_
-Full Stack              Nexient                        Ann Arbor MI                  `Software Developer <https://www.firstjob.com/jobs/1fj5xll/nexient-software-developer/>`_
+Full Stack              HeBS Digital                   New York NY                   `Jr. PHP Application Developer <https://careers-mediamath.icims.com/jobs/2433/junior-developer%2c-developer-relations/job>`_
+Full Stack              Zappos.com                     Las Vegas NV                  `Software Engineer Intern <http://jobs.jobvite.com/careers/zappos/job/oKCS2fw0/apply>`_
+Full Stack              MediaMath                      New York NY                   `Jr. Developer <https://careers-mediamath.icims.com/jobs/2433/junior-developer%2c-developer-relations/job>`_
+Full Stack              Crisis Education, LLC          Austin TX                     `Jr. Web Developer <http://www.jobs2careers.com/job/s-crisis-education-llc-j-junior-web-developer-15043/?click_time=2016-04-21+21%3A35%3A47&job_loc=&click_type=99&aff_id=20>`_
+Full Stack              OSIsoft                        San Leandro CA                `Software Developer Intern <http://www.osisoft.com/company/careers/Job_List.aspx>`_
+Full Stack              Match                          Dallas TX                     `Jr. JavaScript Developer <http://careers.match.com/jobs/?jvi=oQeX2fwN,Job&jvs=JrDevJobs&jvk=Job>`_
+Full Stack              Digital Primates               Chicago IL                    `Junior Developer <https://digitalprimates.bamboohr.com/jobs/view.php?id=3>`_
+Full Stack              Callyo                         Tampa FL                      `Jr. Software Engineer <http://callyo.applytojob.com/apply/job_20160401204454_1TMFYVGTYKIRWKAT/Junior-Software-Engineer-Cloud-API?source=JRDEVJOBS>`_
+Full Stack              TXT                            Los Angeles CA                `Software Engineer <http://www.idealist.org/view/job/WS6Wj9Gk3pbD>`_
 Full Stack              Uber                           San Francisco CA              `Software Engineer, Full Stack <http://www.simplyhired.com/job/adcgmpeti7>`_
 Full Stack              Capital One                    Wilmington DE                 `Software Engineer, Full Stack <http://www.simplyhired.com/job/uv2tmnasrm>`_
 Full Stack              Workbridge Assciates           San Francisco CA              `Full Stack Software Engineer <http://www.simplyhired.com/job/cncux3uuyp>`_
 Full Stack              Principal Solutions Group      Symrna GA                     `Junior Java Developer <http://www.simplyhired.com/job/x62idbxzsv>`_
 Full Stack              CZ Consultants                 San Franicsco CA              `Full Stack Engineer (Contract) <http://www.indeed.com/cmp/CZ-Consultants/jobs/Full-Stack-Developer-dbae664970594888?q=Full+Stack+Engineer>`_
 Full Stack              Goldfish (Target)              Sunnyvale CA                  `Full Stack Engineer <https://jobs.target.com/job/-/-/1118/1633536?apstr=%26src%3DJB-10182>`_
-Data Analysis           City National Bank             Los Angeles CA                `Quantitative/Data Analyst <http://www.careerarc.com/job-listing/city-national-bank-jobs-quantitative-data-analyst-17868454>`_
-Data Analysis           Accenture                      Alexandria VA                 `Data Scientist Analyst <http://jobs.diversityinc.com/index.php?page=view_job&post_id=707012>`_
+Data Analysis           Beacon Hill Staffing           Atlanta GA                    `Jr. Data Analyst <http://www.aplitrak.com/?adid=YXRsdHQuOTI4NjcuMTM1MkBiZWFjb25oaWxsLmFwbGl0cmFrLmNvbQ>`_
+Data Analysis           Kayak                          Cambridge MA                  `Data Scientist <http://jobs.jobvite.com/careers/kayak/job/oypH1fwp>`_
+Data Analysis           Clarifai                       New York NY                   `Data Science Intern <https://boards.greenhouse.io/clarifai/jobs/79911#.Vx748hIrL-Z>`_
+Data Analysis           Dignity Health                 Phoenix AZ                    `Jr. Data Scientist <http://www.dignityhealthcareers.org/careers/jobs/job.php?id=1600010231-junior-data-scientist&cat=%20tst&cat=&media=rep&nt=1&bid=>`_
+Data Analysis           Two Sigma                      Houston TX                    `Data Analyst (Training Program) <https://careers.twosigma.com/careers/JobDetail/Houston-Texas-United-States-Data-Analyst-Training-Program-/1151>`_
+Data Analysis           Harry's                        New York NY                   `Data Analyst <https://boards.greenhouse.io/harrys/jobs/142301?t=4uqjte#.VwbtoRIrL-Y>`_
+Data Analysis           Zillow                         Seattle WA                    `Data Analyst <http://www.zillow.com/jobs/openings?nl=1&jvi=ogoW2fwm,Job&jvs=SimplyHired&jvk=Job>`_
+Data Analysis           Ghiradelli                     San Francisco CA              `Data Analyst <http://www.ghirardelli.com/data-analyst>`_
 Data Analysis           Adecco                         Mountain View CA              `Data Analyst <http://www.simplyhired.com/job/smzne4wj45>`_
-Data Analysis           Levi Strauss, & Co.            San Francisco CA              `Data Analyst <https://levistraussandco.wd5.myworkdayjobs.com/en-US/External/job/US-CA-San-Francisco-Battery-St-Corporate/Analyst--Marketplace-Insights_R-14903-1>`_
 Data Analysis           WorkDay                        San Francisco CA              `Data Analyst <http://www.workday.com/company/careers/job_description.php?id=JR12721&source=indeed#.Vt83CFMrJmA>`_
 Data Analysis           Perfect World Entertainment    Redwood City CA               `Data Analyst <http://chj.tbe.taleo.net/chj06/ats/careers/requisition.jsp?org=PERFWORL&cws=37&rid=32>`_
-Machine Learning        Accenture                      Alexandria VA                 `Data Scientist Analyst <http://jobs.diversityinc.com/index.php?page=view_job&post_id=707012>`_
+Machine Learning        CyberCoders                    Seattle WA                    `Machine Learning Engineer <https://www.cybercoders.com/machine-learning-engineer-job-264619>`_
+Machine Learning        Suning Commerce R&D Center     Palo Alto CA                  `Machine Learning Intern <https://www.ziprecruiter.com/jobs/suning-commerce-r-d-center-c10fe7fc/machine-learning-intern-9eb3f357?mid=3429&source=cpc-Glassdoor-priority>`_
+Machine Learning        Nervana System                 San Diego CA                  `Intern Machine Learning Software Engineer <https://www.smartrecruiters.com/Playgroundglobal/91521143-intern-machine-learning-software-engineer-san-diego->`_
+Machine Learning        Amazon                         Seattle WA                    `Machine Learning Scientist - Speech <https://us-amazon.icims.com/jobs/277909/machine-learning-scientist-intern--speech/job>`_
+Machine Learning        3Cinteractive                  Boca Raton FL                 `Jr. Data Engineer <http://app.jobvite.com/CompanyJobs/Careers.aspx?k=Job&c=qhB9VfwG&j=oN421fwE&s=JrDevJobs>`_
+Machine Learning        ServiceTitan, Inc              Glendale CA                   `Jr. Data Migration Engineer <http://jobs.jobvite.com/careers/servicetitan/job/oTTW2fwu>`_
 Machine Learning        Twitter                        New York NY                   `Data Scientist <https://www.velvetjobs.com/sh/featuredjob/media/guest/306909>`_
 Machine Learning        Foursquare                     New York NY                   `Data Scientist <https://jobs.lever.co/foursquare/f40f49a1-d511-4796-9d96-3b65789abff3>`_
 Machine Learning        CoreLogic                      Irvine CA                     `Data Scientist <https://sjobs.brassring.com/TGWEbHost/jobdetails.aspx?jobId=2347160&PartnerId=25651&SiteId=5472&codes=ININD>`_
