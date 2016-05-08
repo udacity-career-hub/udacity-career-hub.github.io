@@ -4,16 +4,75 @@
 Tips for International Students
 *************************************
 
-While Udacity cannot help you with the legalities of getting a job in the United States, here are some links that you might find helpful as an international student. You may also find information about remote work, and remote/freelance job postings useful.
+While Udacity cannot help you with the legalities of getting a job in the United States (or any other country where you would need work authorization), here are some links that you might find helpful as an international student.
 
-`Info for H-1B applicants <http://h1bvisajobs.com/>`_
-    Explanations of process and jobs listings for H-1B applicants.
+==============
 
-`Going Global <http://www.goinglobal.com/>`_
-    A helpful online resource for international students looking to expand their career options.
+Work Visas
+==============
 
-`Guide <http://www.nolo.com/legal-encyclopedia/question-h1b-visa-can-computer-programming-skills-28199.html>`_
-    “Can my computer programming skills get me an H-1B visa?" A helpful guide for international students.
+If you are hoping to work in the United States, but are not a US citizen or resident, you are required to obtain authorization and a work entry visa. Below, we've included an outline of external resources to help guide you through the Visa process.
 
-`"10 Interview Questions You Need to Know in English" <http://www.speakconfidentenglish.com/10-interview-questions-in-english/>`_
-    An article from Speak Confident English that lists common interview questions and provides guidance on how to answer them.
+`Migration Expert <https://www.migrationexpert.com/work_visa/>`_ provides detailed information about the different types of United States Work Visas.
+
+`All Law <http://www.alllaw.com/resources/immigration-law/working-in-the-us>`_ includes information about the process to work in the United States as a non-US citizen. This is a great website.  Because it explains the various types of Visas and the circumstances required for each.
+
+`Engineer's Guide to US Visas <http://blog.sourcing.io/visa-guide>`_ is a fantastic blog post that explores the topic of US visas from the engineer's perspective.
+
+`How to Get a Work Visa Now <https://www.visanow.com/how-to-get-a-work-visa-us-5-things-need-know/>`_ outlines the 5 things you need to know to get a work visa.
+
+`How to Get a Permit to Work in the US <http://jobsearch.about.com/od/work-united-states/a/work-permit-us.htm>`_  focuses on applying for Employment Authorization Document (EAD).
+
+`Information of H-1B Applicants <http://h1bvisajobs.com/>`_  explains the process for H-1B applicants. It also has job postings for H-1B applicants.
+
+
+==============
+Strategies
+==============
+
+In addition to understanding the legal process of working in the United States, it is helpful to approach this competitive job market strategically. Below, we provide resources and strategies.
+
+------------------
+Cultivate Provable Tech Skills
+------------------
+
+First and foremost, to get a job you must have concrete, in-demand technical skills. Focus on building these inside and outside of Udacity. Be sure to display these your job application materials like your resume, Udacity profile, and LinkedIn!
+
+One article, `"Can my computer programming skills get me and H-1B visa?" <http://www.nolo.com/legal-encyclopedia/question-h1b-visa-can-computer-programming-skills-28199.html>`_ should help you answer the question in the title of the article. It's a must read if you are interested in getting your career started with an H-1B visa.
+
+`Going Global <http://www.goinglobal.com/>`_ A helpful online resource for international students looking to expand their career options.
+
+--------------------------
+Target Specific Companies
+--------------------------
+
+Depending on their size, scale, and budgets companies will have different capacities to provide H-1B visas.
+
+Consider researching which `companies hire the most foreign citizen employees <http://www.forbes.com/sites/kathryndill/2015/04/17/the-companies-hiring-the-most-tech-talent-right-now/>`_. Often these are larger organizations.
+
+If you are interested in smaller and mid-sized organizations, think about how you can frame the added value your international perspective might bring.
+
+------------------
+Ace Your Interviews and Get an Offer
+------------------
+
+Before you can apply for a work visa, you need to apply to jobs, ace an interview, and get an employment offer from an organization interested in sponsoring you.
+
+Udacity provides a great deal of information about how to prepare your job application materials and prepare for interviews; utilize the Career Development courses and projects located in your Nanodegree to prepare your job application materials.
+
+This `Speak Confident English article <http://www.speakconfidentenglish.com/10-interview-questions-in-english/>`_ explores 10 questions you need to know in English. The article lists popular questions and explains how to use them. If English is your second language, this can give you an edge in your behavioral and technical interviews!
+
+------------------
+Build Experience
+------------------
+
+While you are looking for jobs that make you eligible for H-1B visa, consider opportunities outside of the US and freelance positions.
+
+Working within your home country or other countries with more relaxed Visa processes will enhance your professional toolbox and can make you a more desirable candidate in the future.
+
+------------
+Freelancing
+------------
+
+The website `ifreelance.com <http://www.ifreelance.com/freelance-jobs/international-outsourcing-freelance-jobs/>`_  connects Freelancers with projects opportunities.
+The article `What Freelances Living Abroad Need to Know About Taxes <https://www.freelancersunion.org/blog/2013/09/04/what-freelancers-living-abroad-need-know-about-taxes/>`_  covers tax and legal issues you should know when working abroad.
