@@ -1,8 +1,8 @@
 .. _mindset:
 
-********
+*******
 Mindset
-********
+*******
 
 `The Developer Mindset <http://skillcrush.com/2014/06/26/the-developer-mindset/>`_
     One of the most important aspects of becoming a programmer is learning how to think like one. This article defines the five elements of a developer mindset and why it is essential to your success in the field.

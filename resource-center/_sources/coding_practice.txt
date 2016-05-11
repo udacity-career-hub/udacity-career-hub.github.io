@@ -1,8 +1,8 @@
 .. _coding_practice:
 
-*************************
+***************
 Coding Practice
-*************************
+***************
 
 Practice makes (near) perfect! If you’re looking for a job in tech, this is especially relevant: one of the best ways to learn is by doing, and one of the best ways to reinforce your knowledge is to do more. These links offer opportunities to refine your skills and practice coding.
 
@@ -23,9 +23,9 @@ Websites (Web Development)
 
 .. _practice_data:
 
-==========================
+===============
 Websites (Data)
-==========================
+===============
 
 `Quora Data Science Practice Problems <http://www.quora.com/What-are-some-good-toy-problems-in-data-science>`_
     This link will take you to a list of community generated short, one-person problems for data analysis practice.
@@ -47,9 +47,9 @@ Websites (General Challenges)
 
 .. _practice_mobile:
 
-==================
+===========
 Mobile Apps
-==================
+===========
 
 `Code Rust <http://coderust.com/>`_
     This is an app to help you practice coding on the go - it is mobile and tablet friendly!

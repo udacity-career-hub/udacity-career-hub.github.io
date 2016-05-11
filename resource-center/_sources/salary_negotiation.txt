@@ -1,8 +1,8 @@
 .. _salary_negotiation:
 
-**************************************
+******************
 Salary Negotiation
-**************************************
+******************
 
 Do you have an offer letter in hand, but aren’t happy with the salary offered? First off, congratulations! Secondly, we understand that navigating the salary negotiation can be challenging on your own. Check out these links to learn more about strategies you can use to ensure that you see the positive results you deserve!
 
@@ -20,9 +20,9 @@ Check out Udacity's `Career Development Workshop <https://docs.google.com/docume
 
 .. _salary_women:
 
-=============================
+============================
 Salary Negotiation for Women
-=============================
+============================
 
 It is proven fact that women are paid less than men – about 76 cents to the dollar. Ladies, check out these articles below to understand how you can make the most of the salary negotiation process!
 

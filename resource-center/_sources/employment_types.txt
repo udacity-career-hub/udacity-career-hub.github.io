@@ -1,14 +1,14 @@
 .. _employment_types:
 
-*************************************
+****************
 Employment Types
-*************************************
+****************
 
 .. _contract_permanent:
 
-=======================
+======================
 Contract vs. Permanent
-=======================
+======================
 
 There are many different types of work that you could involve yourself in. Figure out which one is best for you using these articles below!
 
@@ -26,9 +26,9 @@ Trying to decide whether to be an employee or an independent contractor? Check o
 
 .. _freelance:
 
-=======================
+=========
 Freelance
-=======================
+=========
 
 Unsure where to start with Freelance work? Check out this overview on `Freelancing <http://skillcrush.com/2015/06/25/make-more-money-freelancing/>`_ first.
 
@@ -46,9 +46,9 @@ Unsure where to start with Freelance work? Check out this overview on `Freelanci
 
 .. _working_remotely:
 
--------------------
+----------------
 Working Remotely
--------------------
+----------------
 
 `Sqwiggle <http://blog.sqwiggle.com/>`_
     This blog is written by a remote worker and features a variety of entries related to remote work and navigating a tech career.
@@ -58,9 +58,9 @@ Working Remotely
 
 .. _finding_freelance_and_remote:
 
-----------------------------------
+---------------------------------
 Finding freelance and remote work
-----------------------------------
+---------------------------------
 
 `Truelancer <http://www.truelancer.com>`_
     Truelancer is a Global Community of Trusted Freelancers. Post your projects, find work, and get hired.

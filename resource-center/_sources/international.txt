@@ -1,15 +1,15 @@
 .. _international:
 
-*************************************
+*******************************
 Tips for International Students
-*************************************
+*******************************
 
 While Udacity cannot help you with the legalities of getting a job in the United States (or any other country where you would need work authorization), here are some links that you might find helpful as an international student.
 
-==============
+==========
 
 Work Visas
-==============
+==========
 
 If you are hoping to work in the United States, but are not a US citizen or resident, you are required to obtain authorization and a work entry visa. Below, we've included an outline of external resources to help guide you through the Visa process.
 
@@ -26,15 +26,15 @@ If you are hoping to work in the United States, but are not a US citizen or resi
 `Information of H-1B Applicants <http://h1bvisajobs.com/>`_  explains the process for H-1B applicants. It also has job postings for H-1B applicants.
 
 
-==============
+==========
 Strategies
-==============
+==========
 
 In addition to understanding the legal process of working in the United States, it is helpful to approach this competitive job market strategically. Below, we provide resources and strategies.
 
-------------------
+------------------------------
 Cultivate Provable Tech Skills
-------------------
+------------------------------
 
 First and foremost, to get a job you must have concrete, in-demand technical skills. Focus on building these inside and outside of Udacity. Be sure to display these your job application materials like your resume, Udacity profile, and LinkedIn!
 
@@ -52,9 +52,9 @@ Consider researching which `companies hire the most foreign citizen employees <h
 
 If you are interested in smaller and mid-sized organizations, think about how you can frame the added value your international perspective might bring.
 
-------------------
+------------------------------------
 Ace Your Interviews and Get an Offer
-------------------
+------------------------------------
 
 Before you can apply for a work visa, you need to apply to jobs, ace an interview, and get an employment offer from an organization interested in sponsoring you.
 
@@ -62,9 +62,9 @@ Udacity provides a great deal of information about how to prepare your job appli
 
 This `Speak Confident English article <http://www.speakconfidentenglish.com/10-interview-questions-in-english/>`_ explores 10 questions you need to know in English. The article lists popular questions and explains how to use them. If English is your second language, this can give you an edge in your behavioral and technical interviews!
 
-------------------
+----------------
 Build Experience
-------------------
+----------------
 
 While you are looking for jobs that make you eligible for H-1B visa, consider opportunities outside of the US and freelance positions.
 

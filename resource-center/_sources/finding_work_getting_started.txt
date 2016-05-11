@@ -1,8 +1,8 @@
 .. _finding_work_getting_started:
 
-*************************************
+***************
 Getting Started
-*************************************
+***************
 
 Check out Udacity's Career Development Workshop on `Pathways to Jobs <https://docs.google.com/document/d/1XJf0wYWIoHWfM8Ep6xIkuBw6tmAlyMW5l37bEgeSoSA/pub?embedded=true>`_ which covers the basics on how to get started finding work opportunities. The video for the workshop can be found here: `Pathways to Jobs Video <https://www.youtube.com/watch?feature=player_embedded&v=OP1CJbQpMHA>`_.
 

@@ -18,16 +18,16 @@ Career Development Workshop
 
 .. _industry_data_science:
 
-===========================
+============
 Data Science
-===========================
+============
 
 `Most Read R Posts for Jobs <http://www.r-bloggers.com/77-most-read-r-posts-r-jobs-for-2014/>`_
     Get a sense of the industry - this blog gives an overview of the most read posts about R, as well as the top 10 R jobs, in 2014.
 
-------------
+-----------
 Newsletters
-------------
+-----------
 `Data Science Weekly <http://www.datascienceweekly.org>`_
     A free weekly newsletter featuring curated news, articles and jobs
     related to Data Science.
@@ -56,9 +56,9 @@ Data Science Blogs
 Mobile Development
 ==================
 
-----
+---
 iOS
-----
+---
 `Swift <https://developer.apple.com/swift/blog/>`_
     Check out this blog post on the new programing language, Swift. If you are interested in expanding your skills, this is a great place to start.
 
@@ -93,17 +93,17 @@ Web Dev Blogs
 
 .. _industry_user_research:
 
-==============
+=============
 User Research
-==============
+=============
 
 Check out this `overview <https://www.gov.uk/service-manual/user-researchers>`_ of all the types of activities a user researcher may do.
 
 .. _industry_design:
 
-==============
+======
 Design
-==============
+======
 `Hack Design <https://hackdesign.org/>`_
     Udacity’s designer recommends this website for design practice.
 `Design of Everyday Things <http://www.amazon.com/The-Design-Everyday-Things-Expanded/dp/0465050654/ref=tmm_pap_title_0>`_

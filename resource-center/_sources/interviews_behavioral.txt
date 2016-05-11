@@ -25,9 +25,9 @@ Udacity did a Q&A with a hiring manager. Check out our Career Development Worksh
 
 .. _behavioral_phone:
 
-==================
+===============
 Phone Screening
-==================
+===============
 
 Phone interviews are often the first stage of the hiring process – doing well will increase your odds of being called back for an on-site interview! Check out these tips for success when you get the call.
 
@@ -46,9 +46,9 @@ Phone interviews are often the first stage of the hiring process – doing well 
 
 .. _behavioral_in-person:
 
-=================================================
+================================================
 In-Person, Behavioral & Non-Technical Interviews
-=================================================
+================================================
 
 Behavioral interviews can be intimidating – it's okay to feel nervous, everyone does! Check out these articles, with tips on how to make a strong impression in person.
 

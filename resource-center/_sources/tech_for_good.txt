@@ -28,9 +28,9 @@ Government, Organizations and Companies
 
 Below are a smattering of some of the interesting companies, organizations and government branches using technology to work on some of the world’s tough social, economic and environmental challenges:
 
-------------------
+-----
 Civic
-------------------
+-----
 
 `Change.org <https://www.change.org/>`_
     Digital platform for campaigns.
@@ -41,9 +41,9 @@ Civic
 `18f <https://18f.gsa.gov/>`_
     Civic consultancy by the government, for the government.
 
-------------------
+---------
 Education
-------------------
+---------
 
 `Wikimedia Foundation <https://wikimediafoundation.org/wiki/Home>`_
     Nonprofit focused on providing free, multilingual educational content.
@@ -60,9 +60,9 @@ Education
 `Watsi <https://watsi.org/>`_
     Website that allows users to donate to directly fund healthcare for people around the world.
 
-------------------
+------
 Health
-------------------
+------
 
 `NexLeaf Analytics <http://nexleaf.org/>`_
     Company that builds wireless devices that collect data for public health and environmental innovations.
@@ -70,9 +70,9 @@ Health
 `Mobile Medic <http://medicmobile.org/>`_
     App for health workers to track medical data and topics like disease spread and immunizations.
 
-------------------
+-----
 Other
-------------------
+-----
 
 `VolunteerMatch <https://www.volunteermatch.org/>`_
     Website that helps users find volunteer opportunities in their community.
@@ -155,9 +155,9 @@ These are 3-month to 2-year long programs that support or place fellows in areas
 `Venture for America <http://ventureforamerica.org/>`_
     2-year fellowship for recent grads that sends young entrepreneurs to emerging cities.
 
-==============
+=========
 Volunteer
-==============
+=========
 
 `Girls who Code <http://girlswhocode.com/>`_
     Girls Who Code works to close the gender gap in technology. Their free programs educate, inspire, and equip girls to pursue opportunities in technology.

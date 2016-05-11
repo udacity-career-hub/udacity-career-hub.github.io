@@ -1,8 +1,8 @@
 .. _job_boards:
 
-*************************************
+**********
 Job Boards
-*************************************
+**********
 
 * `FirstJob <https://www.firstjob.com/>`_ is a job site that focuses on getting you your first job!
 

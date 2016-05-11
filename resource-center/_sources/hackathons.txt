@@ -1,8 +1,8 @@
 .. _hackathons:
 
-*************************
+**********
 Hackathons
-*************************
+**********
 
 `Intro to Hackathons <https://medium.com/hackathons-anonymous/wtf-is-a-hackathon-92668579601>`_
     Are you completely new to hackathons? Take a look at this Medium post to learn what they are and why they would be helpful to building your career.

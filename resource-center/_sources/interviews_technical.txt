@@ -1,8 +1,8 @@
 .. _interviews_technical:
 
-*************************************
+*********************
 Interviews: Technical
-*************************************
+*********************
 
 Students in Udacity’s Nanodegree programs can submit Dry-Run Interview Projects, which focus on both behavioral and technical aspects of job interviews. These projects teach you techniques on how to prepare for and successfully answer technical and coding practice questions. They also outline common issues, such as “getting stuck” while answering a technical question, and advise you on how to overcome them. The interview project is currently available in the respective Nanodegree programs:
 
@@ -29,15 +29,15 @@ Additionally, check out all of these options for technical interview practice. T
 
 .. _technical_general:
 
-============
+=======
 General
-============
+=======
 
 .. _technical_articles:
 
----------
+--------
 Articles
----------
+--------
 
 - `How to Ace your Coding inteview <https://www.palantir.com/2011/10/the-coding-interview/>`_
 
@@ -47,9 +47,9 @@ Articles
 
 .. _technical_web_practice:
 
-------------------
+------------
 Web Practice
-------------------
+------------
 
 - `Pramp <https://www.pramp.com/>`_
    Peer-practice for technical interviews ... for free!
@@ -80,9 +80,9 @@ Web Practice
 
 .. _technical_books:
 
-------------------
+-----
 Books
-------------------
+-----
 
 If you find the online resources above not sufficient enough for your interview preparation, you might want to consider these books!
 
@@ -118,18 +118,18 @@ Data Science
 
 .. _technical_webdev:
 
-==================
+=============
 Web Developer
-==================
+=============
 
 `How to Stand Out <http://blog.udacity.com/2015/01/how-to-stand-out-in-your-web-developer-interview.html>`_
     Article from Udacity with insight on how to stand out in your web developer interview.
 
 .. _technical_systems_design:
 
-=====================
+==============
 Systems Design
-=====================
+==============
 
 `How to Ace Your Systems Design Interview <https://www.palantir.com/2011/10/how-to-rock-a-systems-design-interview/>`_
    Check out this article from Palantir!

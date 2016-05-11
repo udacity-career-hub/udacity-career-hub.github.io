@@ -1,8 +1,8 @@
 .. _communities:
 
-*************************************
+***********
 Communities
-*************************************
+***********
 
 Getting involved with a coding community is a great way to get connected to people who have similar interests as you do!
 

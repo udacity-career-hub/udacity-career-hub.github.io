@@ -1,8 +1,8 @@
 .. _hiring_process_resume:
 
-*************************************
+******
 Resume
-*************************************
+******
 
 Looking to brush up your resume? Check out Udacity's `Career Development Workshop <https://docs.google.com/document/d/1fFKvktW0O1sHOfjg7pBHrgWg7t3BgRQkek4X-466aCk/pub?embedded=true>`_ on how to refine your resume. The video of the presentation can be found `here <https://www.youtube.com/watch?feature=player_embedded&v=vW8baYJBofg>`_.
 

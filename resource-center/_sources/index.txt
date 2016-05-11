@@ -48,6 +48,7 @@ Contents
    hiring_process_portfolio.rst
    interviews_technical.rst
    interviews_behavioral.rst
+   interview_guide_machine_learning.rst
 
 .. toctree::
    :maxdepth: 2
