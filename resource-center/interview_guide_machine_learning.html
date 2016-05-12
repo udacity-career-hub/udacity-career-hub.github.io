@@ -163,7 +163,7 @@ as much as possible about the company and position. Then ask yourself: <strong>W
 </div>
 <div class="section" id="explore-potential-data-sources">
 <h3>Explore Potential Data Sources<a class="headerlink" href="#explore-potential-data-sources" title="Permalink to this headline">¶</a></h3>
-<p>Next, think about what data you would need to answer these questions. Some of this maybe readily available, while you may have to build in additional hooks to gather certain pieces of information. Dig into the company’s infrastructure and operations - what <a class="reference external" href="https://www.quora.com/What-is-Udacitys-technology-stack">stack</a> do they operate on, what APIs they have, what data are they already collecting, etc. Most companies today have a <a class="reference external" href="http://blog.udacity.com/">blog</a> where they often discuss their challenges, approaches, successes and failures. This should give you further insight into how they operate, and what products and services they might have in the pipeline.</p>
+<p>Next, think about what data you would need to answer these questions. Some of this maybe readily available, while you may have to build in additional hooks to gather certain pieces of information. Dig into the company’s infrastructure and operations - what <a class="reference external" href="https://www.quora.com/What-is-Udacitys-technology-stack">stack</a> do they operate on, what <a class="reference external" href="https://www.udacity.com/catalog-api">APIs</a> they have, what data are they already collecting, etc. Most companies today have a <a class="reference external" href="http://blog.udacity.com/">blog</a> where they often discuss their challenges, approaches, successes and failures. This should give you further insight into how they operate, and what products and services they might have in the pipeline.</p>
 </div>
 <div class="section" id="prepare-to-discuss-machine-learning-solutions">
 <h3>Prepare to Discuss Machine Learning Solutions<a class="headerlink" href="#prepare-to-discuss-machine-learning-solutions" title="Permalink to this headline">¶</a></h3>
@@ -253,17 +253,23 @@ as much as possible about the company and position. Then ask yourself: <strong>W
 <li>Tradeoffs and gotchas: Relative advantages and disadvantages, bias and variance, overfitting and underfitting, vanishing/exploding gradients, missing data, data leakage, etc.</li>
 </ul>
 <p><strong>Questions</strong></p>
-<p>You’re trying to classify images of cats and dogs. Plotting the images in some transformed 2-dimensional feature space reveals the following pattern (on the left). In some other space, images of dogs and wolves show a different pattern (on the right).</p>
+<ul>
+<li><p class="first">You’re trying to classify images of cats and dogs. Plotting the images in some transformed 2-dimensional feature space reveals the following pattern (on the left). In some other space, images of dogs and wolves show a different pattern (on the right).</p>
 <img alt="http://lh3.googleusercontent.com/FMKMtaLQdFt6GrQTZnzI4Y0AQcelE2RBz_64se4DAklA_slcuTZcD5i4_H000zsXcAuc-xnj-t2vqvSdqw=s0#w=1584&amp;h=678" src="http://lh3.googleusercontent.com/FMKMtaLQdFt6GrQTZnzI4Y0AQcelE2RBz_64se4DAklA_slcuTZcD5i4_H000zsXcAuc-xnj-t2vqvSdqw=s0#w=1584&amp;h=678" />
 <p>What model would you use to classify cats vs. dogs, and what would you use for dogs vs. wolves? Why?</p>
-<ul class="simple">
-<li>I’m trying to fit a single hidden layer neural network to a given dataset, and I find that the weights are oscillating a lot over training iterations (varying wildly, often swinging between positive and negative values). What parameter do I need to tune to address this issue?</li>
-<li>When training a support vector machine, what value are you optimizing for?</li>
-<li>Lasso regression uses the L1-norm of coefficients as a penalty term, while ridge regression uses the L2-norm. Which of these regularization methods is more likely to result in sparse solutions, where one or more coefficients are exactly zero?</li>
-<li>When training a 10-layer neural net using backpropagation, I find that the weights for the top 3 layers are not changing at all! The next few layers (4-6) are changing, but very slowly. What’s going on and how do I fix this?</li>
-<li>I’ve found some data about wheat-growing regions in Europe that includes annual rainfall (R, in inches), mean altitude (A, in meters) and wheat output (O, in kgs/km2). A rough analysis and some plots make me believe that output is related to the square of rainfall, and log of altitude: O = β0 + β1 × R2 + β2 × loge(A)</li>
-</ul>
+</li>
+<li><p class="first">I’m trying to fit a single hidden layer neural network to a given dataset, and I find that the weights are oscillating a lot over training iterations (varying wildly, often swinging between positive and negative values). What parameter do I need to tune to address this issue?</p>
+</li>
+<li><p class="first">When training a support vector machine, what value are you optimizing for?</p>
+</li>
+<li><p class="first">Lasso regression uses the L1-norm of coefficients as a penalty term, while ridge regression uses the L2-norm. Which of these regularization methods is more likely to result in sparse solutions, where one or more coefficients are exactly zero?</p>
+</li>
+<li><p class="first">When training a 10-layer neural net using backpropagation, I find that the weights for the top 3 layers are not changing at all! The next few layers (4-6) are changing, but very slowly. What’s going on and how do I fix this?</p>
+</li>
+<li><p class="first">I’ve found some data about wheat-growing regions in Europe that includes annual rainfall (R, in inches), mean altitude (A, in meters) and wheat output (O, in kgs/km<sub>2</sub>). A rough analysis and some plots make me believe that output is related to the square of rainfall, and log of altitude: O = β0 + β1 × R2 + β2 × log<sub>e</sub>(A)</p>
 <p>Can I fit the coefficients (β) in my model to the data using linear regression?</p>
+</li>
+</ul>
 <p>Data science and Machine Learning challenges such as those on <a class="reference external" href="http://www.kaggle.com/">Kaggle</a> are a great way to get exposed to different kinds of problems and their nuances. Try to participate in as many as you can, and apply different machine learning models.</p>
 </div>
 <div class="section" id="software-engineering-and-system-design">
